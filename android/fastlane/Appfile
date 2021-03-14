@@ -1,0 +1,2 @@
+json_key_file("/Users/aplanetbit/Downloads/pc-api-8134258655084518574-615-f2dcc74b0e33.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.aplanetbit.diccionario.panocho") # e.g. com.krausefx.app

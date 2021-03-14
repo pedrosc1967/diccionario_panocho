@@ -1,0 +1,2022 @@
+﻿[
+        {
+            "Entry": "Accident",
+            "Definition": "An unexpected event or circumstance without deliberate intent."
+        },
+        {
+            "Entry": "Accident Insurance",
+            "Definition": "Insurance for unforeseen bodily injury."
+        },
+        {
+            "Entry": "Accident Only",
+            "Definition": "An insurance contract that provides coverage, singly or in combination, for death, dismemberment, disability, or hospital and medical care caused by or necessitated as a result of accident or specified kinds of accident."
+        },
+        {
+            "Entry": "Accident Only or AD&D",
+            "Definition": "Policies providing coverage, singly or in combination, for death, dismemberment, disability, or hospital and medical care caused by or necessitated as a result of accident or specified kinds of accidents. Types of coverage include student accident, sports accident, travel accident, blanket accident, specific accident or accidental death and dismemberment (ad&d)."
+        },
+        {
+            "Entry": "Accidental Bodily Injury",
+            "Definition": "Unexpected injury to a person."
+        },
+        {
+            "Entry": "Accidental Death & Dismemberment",
+            "Definition": "An insurance contract that pays a stated benefit in the event of death and/or dismemberment caused by accident or specified kinds of accidents."
+        },
+        {
+            "Entry": "Accumulation Period",
+            "Definition": "Period of time insured must incur eligible medical expenses at least equal to the deductible amount in order to establish a benefit period under a major medical expense or comprehensive medical expense policy."
+        },
+        {
+            "Entry": "Actual Cash Value",
+            "Definition": "Repayment value for indemnification due to loss or damage of property; in most cases it is replacement cost minus depreciation"
+        },
+        {
+            "Entry": "Actuarial Report",
+            "Definition": "(PC insurance)a document or other presentation, prepared as a formal means of conveying to the state regulatory authority and the board of directors, or its equivalent, the actuary's professional conclusions and recommendations, of recording and communicating the methods and procedures, of assuring that the parties addressed are aware of the significance of the actuary's opinion or findings and that documents the analysis underlying the opinion. (in life and health) this document would be called an \"actuarial memorandum.\""
+        },
+        {
+            "Entry": "Actuary",
+            "Definition": "Business professional who analyzes probabilities of risk and risk management including calculation of premiums, dividends and other applicable insurance industry standards."
+        },
+        {
+            "Entry": "Adjuster",
+            "Definition": "A person who investigates claims and recommends settlement options based on estimates of damage and insurance policies held."
+        },
+        {
+            "Entry": "Admission",
+            "Definition": "Hospital inpatient care for any medical condition."
+        },
+        {
+            "Entry": "Admitted Assets",
+            "Definition": "Insurer assets which can be valued and included on the balance sheet to determine financial viability of the company."
+        },
+        {
+            "Entry": "Admitted Company",
+            "Definition": "An insurance company licensed to do business in a state(s), domiciled in an alternative state or country."
+        },
+        {
+            "Entry": "Advance Premiums",
+            "Definition": "Occur when a policy has been processed, and the premium has been paid prior to the effective date. These are a liability to the company and not included in written premium or the unearned premium reserve."
+        },
+        {
+            "Entry": "Adverse Selection",
+            "Definition": "The social phenomenon whereby persons with a higher than average probability of loss seek greater insurance coverage than those with less risk."
+        },
+        {
+            "Entry": "Advisory Organization",
+            "Definition": "A group supported by member companies whose function is to gather loss statistics and publish trended loss costs."
+        },
+        {
+            "Entry": "Affiliate",
+            "Definition": "A person or entity that directly, or indirectly, through one or more other persons or entities, controls, is controlled by or is under common control with the insurer."
+        },
+        {
+            "Entry": "Agent",
+            "Definition": "An individual who sells, services, or negotiates insurance policies either on behalf of a company or independently."
+        },
+        {
+            "Entry": "Aggregate",
+            "Definition": "The maximum dollar amount or total amount of coverage payable for a single loss, or multiple losses, during a policy period, or on a single project."
+        },
+        {
+            "Entry": "Aggregate Cost Payments",
+            "Definition": "Method of reimbursement of a health plan with a corporate entity that directly provides care, where (1) the health plan is contractually required to pay the total operating costs of the corporate entity, less any income to the entity from other users of services, and (2) there are mutual unlimited guarantees of solvency between the entity and the health plan that put their respective capital and surplus at risk in guaranteeing each other."
+        },
+        {
+            "Entry": "Aircraft",
+            "Definition": "Coverage for aircraft (hull) and their contents; aircraft owners' and aircraft manufacturers liability to passengers, airports and other third parties."
+        },
+        {
+            "Entry": "ALAE",
+            "Definition": "An estimate of the claims settlement associated with a particular claim or claims."
+        },
+        {
+            "Entry": "Alien Company",
+            "Definition": "An insurance company formed according to the laws of a foreign country. The company must conform to state regulatory standards to legally sell insurance products in that state."
+        },
+        {
+            "Entry": "Allied Lines",
+            "Definition": "Coverages which are generally written with property insurance, e.g., glass, tornado, windstorm and hail; sprinkler and water damage; explosion, riot, and civil commotion; growing crops; flood; rain; and damage from aircraft and vehicle, etc."
+        },
+        {
+            "Entry": "All-Risk",
+            "Definition": "Also known as open peril, this type of policy covers a broad range of losses. The policy covers risks not explicitly excluded in the policy contract."
+        },
+        {
+            "Entry": "Alternative Workers' Compensation",
+            "Definition": "Other than standard workers' compensation coverage, employer's liability and excess workers' compensation (e.g., large deductible, managed care)."
+        },
+        {
+            "Entry": "Ambulatory Services",
+            "Definition": "Health services provided to members who are not confined to a health care institution. Ambulatory services are often referred to as \"outpatient\"services."
+        },
+        {
+            "Entry": "Annual Statement",
+            "Definition": "An annual report required to be filed with each state in which an insurer does business. This report provides a snapshot of the financial condition of a company and significant events which occurred throughout the reporting year."
+        },
+        {
+            "Entry": "Annuitant",
+            "Definition": "The beneficiary of an annuity payment, or person during whose life and annuity is payable."
+        },
+        {
+            "Entry": "Annuities Immediate Non-variable",
+            "Definition": "An annuity contract that provides for the fixed payment of the annuity at the end of the first interval of payment after purchase. The interval may vary, however the annuity payouts must begin within 13 months."
+        },
+        {
+            "Entry": "Annuity",
+            "Definition": "A contract providing income for a specified period of time, or duration of life for a person or persons."
+        },
+        {
+            "Entry": "Appraisal",
+            "Definition": "An estimate of value."
+        },
+        {
+            "Entry": "Arbitration",
+            "Definition": "A binding dispute resolution tactic whereby a conciliator with no interest in the outcome intercedes."
+        },
+        {
+            "Entry": "Assessed Value",
+            "Definition": "Estimated value for real or personal property established by a taxing entity"
+        },
+        {
+            "Entry": "Asset",
+            "Definition": "Probable future economic benefits obtained or controlled by a particular entity as a result of past transactions or events. An asset has three essential characteristics: it embodies a probable future benefit that involves a capacity, singly or in combination with other assets, to contribute directly or indirectly to future net cash inflows; a particular entity can obtain the benefit and control others' access to it; and the transaction or other event"
+        },
+        {
+            "Entry": "Asset Risk",
+            "Definition": "In the risk-based capital formula, risk assigned to the company's assets."
+        },
+        {
+            "Entry": "Assigned Risk",
+            "Definition": "A governmental pool established to write business declined by carriers in the standard insurance market."
+        },
+        {
+            "Entry": "Assisted Living Care",
+            "Definition": "A policy or rider that provides coverage only while a policyholder is confined to an assisted living facility and meets the policy requirements for coverage."
+        },
+        {
+            "Entry": "Assumed Reinsurance",
+            "Definition": "The assumption of risk from another insurance entity within a reinsurance agreement or treaty."
+        },
+        {
+            "Entry": "Authorized Company",
+            "Definition": "An insurer licensed or admitted to do business in a particular state."
+        },
+        {
+            "Entry": "Authorized Control Level Risk Based Capital",
+            "Definition": "Theoretical amount of capital plus surplus an insurance company should maintain."
+        },
+        {
+            "Entry": "Authorized Reinsurance",
+            "Definition": "Reinsurance placed with a reinsurer who is licensed or otherwise allowed to conduct reinsurance within a state."
+        },
+        {
+            "Entry": "Auto Liability",
+            "Definition": "Coverage that protects against financial loss because of legal liability for motor vehicle related injuries (bodily injury and medical payments) or damage to the property of others caused by accidents arising out of ownership, maintenance or use of a motor vehicle (including recreational vehicles such as motor homes). Commercial is defined as all motor vehicle policies that include vehicles that are used primarily in connection with business, commercial establishments, activity, employment, or activities carried on for gain or profit. No fault is defined by the state concerned."
+        },
+        {
+            "Entry": "Auto Physical Damage",
+            "Definition": "Motor vehicle insurance coverage (including collision, vandalism, fire and theft) that insures against material damage to the insured's vehicle. Commercial is defined as all motor vehicle policies that include vehicles that are used in connection with business, commercial establishments, activity, employment, or activities carried on for gain or profit."
+        },
+        {
+            "Entry": "Automobile Liability Insurance",
+            "Definition": "Coverage for bodily injury and property damage incurred through ownership or operation of a vehicle."
+        },
+        {
+            "Entry": "Balance Sheet",
+            "Definition": "Accounting statement showing the financial condition of a company at a particular date."
+        },
+        {
+            "Entry": "BCEGS -  Building Code Effectiveness Grading Schedule",
+            "Definition": "Classification system for assessment of building codes per geographic region with special emphasis on mitigation of losses from natural disasters."
+        },
+        {
+            "Entry": "Beneficiary",
+            "Definition": "An individual who may become eligible to receive payment due to will, life insurance policy, retirement plan, annuity, trust, or other contract."
+        },
+        {
+            "Entry": "Benefits (Medical & Hospital Expenses)",
+            "Definition": "Total expenditures for health care services paid to or on behalf of a member."
+        },
+        {
+            "Entry": "Blanket coverage",
+            "Definition": "Coverage for property and liability that extends to more than one location, class of property or employee."
+        },
+        {
+            "Entry": "Boatowners/Personal Watercraft",
+            "Definition": "Covers damage to pleasure boats, motors, trailers, boating equipment and personal watercraft as well as bodily injury and property damage liability to others."
+        },
+        {
+            "Entry": "Bodily Injury",
+            "Definition": "Physical injury including sickness or disease to a person."
+        },
+        {
+            "Entry": "Boiler & Machinery or Equipment Breakdown & Machinery",
+            "Definition": "Coverage for the failure of boilers, machinery and other electrical equipment. Benefits include (i) property of the insured, which has been directly damaged by the accident; (ii) costs of temporary repairs and expediting expenses; and (iii) liability for damage to the property of others. Coverage also includes inspection of the equipment."
+        },
+        {
+            "Entry": "Bonds",
+            "Definition": "A form of debt security whereby the debt holder has a creditor stake in the company. Obligations issued by business units, governmental units and certain nonprofit units having a fixed schedule for one or more future payments of money; includes commercial paper, negotiable certificates of deposit, repurchase agreements and equipment trust certificates."
+        },
+        {
+            "Entry": "Book Value",
+            "Definition": "Original cost, including capitalized acquisition costs and accumulated depreciation, unamortized premium and discount, deferred origination and commitment fees, direct write-downs, and increase/decrease by adjustment."
+        },
+        {
+            "Entry": "Broker",
+            "Definition": "An individual who receives commissions from the sale and service of insurance policies. These individuals work on behalf of the customer and are not restricted to selling policies for a specific company but commissions are paid by the company with which the sale was made."
+        },
+        {
+            "Entry": "Builders' Risk Policies",
+            "Definition": "Typically written on a reporting or completed value form, this coverage insures against loss to buildings in the course of construction. The coverage also includes machinery and equipment used in the course of construction and to materials incidental to construction."
+        },
+        {
+            "Entry": "Burglary and Theft",
+            "Definition": "Coverage for property taken or destroyed by breaking and entering the insured's premises, burglary or theft, forgery or counterfeiting, fraud, kidnap and ransom, and off-premises exposure."
+        },
+        {
+            "Entry": "Business Auto",
+            "Definition": "Coverage for motor vehicles, other than those in the garage business, engaged in commerce. Business auto filings include singularly or in any combination coverage such as the following: auto liability, pip, mp, uninsured motorist and/or underinsured motorists (um/uim); specified causes of loss, comprehensive, and collision."
+        },
+        {
+            "Entry": "Business Interruption",
+            "Definition": "Loss of income as a result of property damage to a business facility."
+        },
+        {
+            "Entry": "Business owners Policy",
+            "Definition": "Business insurance typically for property, liability and business interruption coverage."
+        },
+        {
+            "Entry": "Calendar Year Deductible",
+            "Definition": "In health insurance, the amount that must be paid by the insured during a calendar year before the insurer becomes responsible for further loss costs."
+        },
+        {
+            "Entry": "Capital and Surplus",
+            "Definition": "A company's assets minus its liabilities."
+        },
+        {
+            "Entry": "Capital and Surplus Requirement",
+            "Definition": "Statutory requirement ordering companies to maintain their capital and surplus at an amount equal to or in excess of a specified amount to help assure the solvency of the company by providing a financial cushion against expected loss or misjudgments and generally measured as a company's admitted assets minus its liabilities, determined on a statutory accounting basis."
+        },
+        {
+            "Entry": "Capital Gains (Loss)",
+            "Definition": "Excess (deficiency) of the sales price of an asset over its book value. Calculated on the basis of original cost adjusted, as appropriate, for accrual of discount or amortization of premium and for depreciation."
+        },
+        {
+            "Entry": "Capitation Arrangement",
+            "Definition": "A compensation plan used in connection with some managed care contracts where a physician or other medical provider is paid a flat amount, usually on a monthly basis, for each subscriber who has elected to use that physician or medical provider. Capitated payments are sometimes expressed in terms of a \"per member/per month\"payment. The capitated provider is generally responsible, under the conditions of the contract, for delivering or arranging for the delivery of all contracted health services required by the covered person."
+        },
+        {
+            "Entry": "Captive Agent",
+            "Definition": "An individual who sells or services insurance contracts for a specific insurer or fleet of insurers."
+        },
+        {
+            "Entry": "Captive Insurer",
+            "Definition": "An insurance company established by a parent firm for the purpose of insuring the parent's exposures."
+        },
+        {
+            "Entry": "Carrying Value (Amount)",
+            "Definition": "The sap book value plus accrued interest and reduced by any valuation allowance and any nonadmitted adjustment applied to the individual investment."
+        },
+        {
+            "Entry": "Cash",
+            "Definition": "A medium of exchange."
+        },
+        {
+            "Entry": "Cash Equivalent",
+            "Definition": "Short-term, highly liquid investments that are both (a) readily convertible to known amounts of cash, and (b) so near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Investments with original maturities of three months or less qualify under this definition."
+        },
+        {
+            "Entry": "Casualty Insurance",
+            "Definition": "A form of liability insurance providing coverage for negligent acts and omissions such as workers compensation, errors and omissions, fidelity, crime, glass, boiler, and various malpractice coverages."
+        },
+        {
+            "Entry": "Catastrophe Bonds",
+            "Definition": "Bonds issued by an insurance company with funding tied to the company's losses from disasters, or acts of god. A loss exceeding a certain size triggers a reduction in the bond value or a change in the bond structure as loss payments are paid out of bond funds."
+        },
+        {
+            "Entry": "Catastrophe Loss",
+            "Definition": "A large magnitude loss with little ability to forecast."
+        },
+        {
+            "Entry": "Ceded Premium",
+            "Definition": "Amount of premium (fees) used to purchase reinsurance."
+        },
+        {
+            "Entry": "Ceding Company",
+            "Definition": "An insurance company that transfers risk by purchasing reinsurance."
+        },
+        {
+            "Entry": "Centers for Medicare & Medicaid Services (CMS)",
+            "Definition": "U.S. Governmental agency responsible for the licensing of federally qualified hmos. This was formerly the health care financing administration."
+        },
+        {
+            "Entry": "Change in Valuation Basis",
+            "Definition": "A change in the interest rate, mortality assumption or reserving method or other factors affecting the reserve computation of policies in force."
+        },
+        {
+            "Entry": "Chartered Life Underwriter (CLU)",
+            "Definition": "A professional designation awarded by the american college to persons in the life insurance field who pass a series of exams in insurance, investment, taxation, employee benefit plans, estate planning, accounting, management, and economics."
+        },
+        {
+            "Entry": "Chartered Property Casualty Underwriter (CPCU)",
+            "Definition": "A professional designation awarded by the american institute of property and casualty underwriters to persons in the property and liability insurance field who pass a series of exams in insurance, risk management, economics, finance, management, accounting, and law. Designates must also have at least three years experience in the insurance business or related field."
+        },
+        {
+            "Entry": "Claim",
+            "Definition": "A request made by the insured for insurer remittance of payment due to loss incurred and covered under the policy agreement."
+        },
+        {
+            "Entry": "Claims Adjustment Expenses",
+            "Definition": "Costs expected to be incurred in connection with the adjustment and recording of accident and health, auto medical and workers' compensation claims."
+        },
+        {
+            "Entry": "Claims-made Form",
+            "Definition": "A type of liability insurance form that only pays if the both event that causes (triggers)the claim and the actual claim are submitted to the insurance company during the policy term"
+        },
+        {
+            "Entry": "Class Rating",
+            "Definition": "A method of determining rates for all applicants within a given set of characteristics such as personal demographic and geographic location."
+        },
+        {
+            "Entry": "Coinsurance",
+            "Definition": "A clause contained in most property insurance policies to encourage policy holders to carry a reasonable amount of insurance. If the insured fails to maintain the amount specified in the clause (usually at least 80%), the insured shares a higher proportion of the loss. In medical insurance a percentage of each claim that the insured will bear."
+        },
+        {
+            "Entry": "Collar",
+            "Definition": "An agreement to receive payments as the buyer of an option, cap or floor and to make payments as the seller of a different option, cap or floor."
+        },
+        {
+            "Entry": "Collateral Loans",
+            "Definition": "Unconditional obligations for the payment of money secured by the pledge of an investment."
+        },
+        {
+            "Entry": "Collateralized Bond Obligations (CBOs)",
+            "Definition": "An investment-grade bond backed by a pool of low-grade debt securities, such as junk bonds, separated into tranches based on various levels of credit risk."
+        },
+        {
+            "Entry": "Collateralized Mortgage Obligations (CMOs)",
+            "Definition": "A type of mortgage-backed security (mbs) with separate pools of pass-through security mortgages that contain varying classes of holders and maturities (tranches) with the advantage of predictable cash flow patterns."
+        },
+        {
+            "Entry": "Combinations",
+            "Definition": "A special form of package policy composed of personal automobile and homeowners insurance."
+        },
+        {
+            "Entry": "Combined Ratio",
+            "Definition": "An indication of the profitability of an insurance company, calculated by adding the loss and expense ratios."
+        },
+        {
+            "Entry": "Commencement Date",
+            "Definition": "Date when the organization first became obligated for any insurance risk via the issuance of policies and/or entering into a reinsurance agreement. Same as \"effective date\"of coverage."
+        },
+        {
+            "Entry": "Commercial Auto",
+            "Definition": "Coverage for motor vehicles owned by a business engaged in commerce that protects the insured against financial loss because of legal liability for motor vehicle related injuries, or damage to the property of others caused by accidents arising out of the ownership, maintenance, use, or care-custody & control of a motor vehicle. This includes commercial auto combinations of business auto, garage, truckers and/or other commercial auto."
+        },
+        {
+            "Entry": "Commercial Earthquake",
+            "Definition": "Earthquake property coverage for commercial ventures."
+        },
+        {
+            "Entry": "Commercial Farm and Ranch",
+            "Definition": "A commercial package policy for farming and ranching risks that includes both property and liability coverage. Coverage includes barns, stables, other farm structures and farm inland marine, such as mobile equipment and livestock."
+        },
+        {
+            "Entry": "Commercial Flood",
+            "Definition": "Separate flood insurance policy sold to commercial ventures."
+        },
+        {
+            "Entry": "Commercial General Liability",
+            "Definition": "Flexible & broad commercial liability coverage with two major sub-lines: premises/operations sub-line and products/completed operations sub-line."
+        },
+        {
+            "Entry": "Commercial Mortgage-Backed Securities",
+            "Definition": "A type of mortgage-backed security that is secured by the loan on a commercial property."
+        },
+        {
+            "Entry": "Commercial Multiple Peril",
+            "Definition": "Policy that packages two or more insurance coverages protecting an enterprise from various property and liability risk exposures. Frequently includes fire, allied lines, various other coverages (e.g., difference in conditions) and liability coverage. Such coverages would be included in other annual statement lines, if written individually. Include under this type of insurance multi-peril policies (other than farmowners, homeowners and automobile policies) that include coverage for liability other than auto."
+        },
+        {
+            "Entry": "Commercial Package Policy",
+            "Definition": "Provides a broad package of property and liability coverages for commercial ventures other than those provided insurance through a business owners policy."
+        },
+        {
+            "Entry": "Commercial Property",
+            "Definition": "Property insurance coverage sold to commercial ventures."
+        },
+        {
+            "Entry": "Commission",
+            "Definition": "A percentage of premium paid to agents by insurance companies for the sale of policies."
+        },
+        {
+            "Entry": "Community Rating",
+            "Definition": "A rating system where standard rating is established and usually adjusted within specific guidelines for each group on the basis of anticipated utilization by the group's employees."
+        },
+        {
+            "Entry": "Company Code",
+            "Definition": "A five-digit identifying number assigned by naic, assigned to all insurance companies filing financial data with naic."
+        },
+        {
+            "Entry": "Completed Operations Liability",
+            "Definition": "Policies covering the liability of contractors, plumbers, electricians, repair shops, and similar firms to persons who have incurred bodily injury or property damage from defective work or operations completed or abandoned by or for the insured, away from the insured's premises."
+        },
+        {
+            "Entry": "Comprehensive (Hospital and Medical)",
+            "Definition": "Line of business providing for medical coverages; includes hospital, surgical, major medical coverages; does not include medicare supplement, administrative services (asc) contracts, administrative services only (aso) contracts, federal employees health benefit plans (fehbp), medical only programs, medicare and medicaid programs, vision only and dental only business."
+        },
+        {
+            "Entry": "Comprehensive General Liability (CGL)",
+            "Definition": "Coverage of all business liabilities unless specifically excluded in the policy contract."
+        },
+        {
+            "Entry": "Comprehensive Personal Liability",
+            "Definition": "Comprehensive liability coverage for exposures arising out of the residence premises and activities of individuals and family members. (non-business liability exposure protection for individuals.)"
+        },
+        {
+            "Entry": "Comprehensive/Major Medical",
+            "Definition": "Policies that provide fully insured indemnity, hmo, ppo, or fee for service coverage for hospital, medical, and surgical expenses. Coverage excludes short-term medical insurance, the federal employees health benefit program and non-comprehensive coverage such as basic hospital only, medical only, hospital confinement indemnity, surgical, outpatient indemnity, specified disease, intensive care, and organ and tissue transplant coverage."
+        },
+        {
+            "Entry": "Concurrent Causation",
+            "Definition": "Property loss incurred from two or more perils in which only one loss is covered but both are paid by the insurer due to simultaneous incident."
+        },
+        {
+            "Entry": "Conditions",
+            "Definition": "Requirements specified in the insurance contract that must be upheld by the insured to qualify for indemnification."
+        },
+        {
+            "Entry": "Condos",
+            "Definition": "Homeowners insurance sold to condominium owners occupying the described property."
+        },
+        {
+            "Entry": "Construction and Alteration Liability",
+            "Definition": "Covering the liability of an insured to persons who have incurred bodily injury or property damage from alterations involving demolition, new construction or change in size of a structure on the insured's premises."
+        },
+        {
+            "Entry": "Contingency Reserves",
+            "Definition": "Required by some jurisdictions as a hedge against adverse experience from operations, particularly adverse claim experience."
+        },
+        {
+            "Entry": "Contingent Liability",
+            "Definition": "The liability of an insured to persons who have incurred bodily injury or property damage from work done by an independent contractor hired by the insured to perform work that was illegal, inherently dangerous, or directly supervised by the insured"
+        },
+        {
+            "Entry": "Continuation of Care Requirement",
+            "Definition": "Statutory or contractual provision requiring providers to deliver care to an enrollee for some period following the date of a health plan company's insolvency."
+        },
+        {
+            "Entry": "Continuing Care Retirement Communities",
+            "Definition": "Senior housing arrangements that in addition to housing include some provision for skilled nursing care."
+        },
+        {
+            "Entry": "Contract Reserves",
+            "Definition": "Reserves set up when, due to the gross premium structure, the future benefits exceed the future net premium. Contract reserves are in addition to claim and premium reserves."
+        },
+        {
+            "Entry": "Contractual Liability",
+            "Definition": "Liability coverage of an insured who has assumed the legal liability of another party by written or oral contract. Includes a contractual liability policy providing coverage for all obligations and liabilities incurred by a service contract provider under the terms of service contracts issued by the provider."
+        },
+        {
+            "Entry": "Convertible Term Insurance Policy",
+            "Definition": "An insurance policy that can be converted into permanent insurance without a medical assessment. The insurer is required to renew the policy regardless of the health of the insured subject to policy conditions."
+        },
+        {
+            "Entry": "Coordination of Benefits (COB)",
+            "Definition": "Provision to eliminate over insurance and establish a prompt and orderly claims payment system when a person is covered by more than one group insurance and/or group service plan."
+        },
+        {
+            "Entry": "Copay",
+            "Definition": "A cost sharing mechanism in group insurance plans where the insured pays a specified dollar amount of incurred medical expenses and the insurer pays the remainder."
+        },
+        {
+            "Entry": "Corrective Order",
+            "Definition": "Commissioner's directive of action to be completed by an insurer."
+        },
+        {
+            "Entry": "Covered Lives",
+            "Definition": "The total number of lives insured, including dependents, under individual policies and group certificates."
+        },
+        {
+            "Entry": "Credit",
+            "Definition": "Individual or group policies that provide benefits to a debtor for full or partial repayment of debt associated with a specific loan or other credit transaction upon disability or involuntary unemployment of debtor, except in connection with first mortgage loans."
+        },
+        {
+            "Entry": "Credit - Assumption Agreement",
+            "Definition": "An insurance certificate issued on an existing insurance contract indicating that another insurer has assumed all of the risk under the contract from the ceding insurance company."
+        },
+        {
+            "Entry": "Credit -  Credit Default",
+            "Definition": "Coverage purchased by manufacturers, merchants, educational institutions, or other providers of goods and services extending credit, for indemnification of losses or damages resulting from the nonpayment of debts owed to them for goods or services provided in the normal course of their business."
+        },
+        {
+            "Entry": "Credit - Involuntary Unemployment",
+            "Definition": "Makes loan/credit transaction payments to the creditor when the debtor becomes involuntarily unemployed."
+        },
+        {
+            "Entry": "Credit Accident and Health (group and individual) ",
+            "Definition": "Coverage provided to or offered to borrowers in connection with a consumer credit transaction where the proceeds are used to repay a debt or an installment loan in the event the consumer is disabled as the result of an accident, including business not exceeding 120 months duration."
+        },
+        {
+            "Entry": "Credit Disability",
+            "Definition": "Makes monthly loan/credit transaction payments to the creditor upon the disablement of an insured debtor."
+        },
+        {
+            "Entry": "Credit Health Insurance",
+            "Definition": "Policy assigning creditor as beneficiary for insurance on a debtor thereby remitting balance of payment to creditor should the debtor become disabled."
+        },
+        {
+            "Entry": "Credit Involuntary Unemployment",
+            "Definition": "Credit insurance that provides a monthly or lump sum benefit during an unpaid leave of absence from employment resulting from specified causes, such as layoff, business closure, strike, illness of a close relative and adoption or birth of a child. This insurance is sometimes referred to as credit family leave."
+        },
+        {
+            "Entry": "Credit Life Insurance",
+            "Definition": "Policy assigning creditor as beneficiary for insurance on a debtor thereby remitting balance of payment to creditor upon death of debtor."
+        },
+        {
+            "Entry": "Credit Personal Property Insurance",
+            "Definition": "Insurance written in connection with a credit transaction where the collateral is not a motor vehicle, mobile home or real estate and that covers perils to the goods purchased through a credit transaction or used as collateral for a credit transaction and that concerns a creditor's interest in the purchased goods or pledged collateral, either in whole or in part; or covers perils to goods purchased in connection with an open-end transaction."
+        },
+        {
+            "Entry": "Credit Placed Insurance",
+            "Definition": "Insurance that is purchased unilaterally by the creditor, who is the named insured, subsequent to the date of the credit transaction, providing coverage against loss, expense or damage to property as a result of fire, theft, collision or other risks of loss that would either impair a creditor's interest or adversely affect the value of collateral. \"creditor placed home\"means \"creditor placed insurance\"on homes, mobile homes and other real estate. \"creditor placed auto\"means insurance on automobiles, boats or other vehicles."
+        },
+        {
+            "Entry": "Credit Risk",
+            "Definition": "Part of the risk-based capital formula that addresses the collectability of a company's receivables and the risk of losing a provider or intermediary that has received advance capitation payments."
+        },
+        {
+            "Entry": "Creditor-Placed Auto",
+            "Definition": "Single interest or dual interest credit insurance that is purchased unilaterally by the creditor, who is the named insured, subsequent to the date of the credit transaction, providing coverage against loss to property that would either impair a creditor's interest or adversely affect the value of collateral on automobiles, boats, or other vehicles."
+        },
+        {
+            "Entry": "Creditor-Placed Home",
+            "Definition": "Single interest or dual interest credit insurance purchased unilaterally by the creditor, who is the named insured, subsequent to the date of the credit transaction, providing coverage against loss to property that would either impair a creditor's interest or adversely affect the value of collateral on homes, mobile homes, and other real estate."
+        },
+        {
+            "Entry": "Crop",
+            "Definition": "Coverage protecting the insured against loss or damage to crops from a variety of perils, including but not limited to fire, lightening, loss of revenue, tornado, windstorm, hail, flood, rain, or damage by insects."
+        },
+        {
+            "Entry": "Crop-Hail Insurance",
+            "Definition": "Coverage for crop damage due to hail, fire or lightning."
+        },
+        {
+            "Entry": "Date of Issue",
+            "Definition": "Date when an insurance company issues a policy."
+        },
+        {
+            "Entry": "Declarations",
+            "Definition": "Policy statements regarding the applicant and property covered such as demographic and occupational information, property specifications and expected mileage per year ."
+        },
+        {
+            "Entry": "Deductible",
+            "Definition": "Portion of the insured loss (in dollars) paid by the policy holder"
+        },
+        {
+            "Entry": "Deferred Annuity",
+            "Definition": "Annuity payment to be made as a single payment or a series of installments to begin at some future date, such as in a specified number of years or at a specified age."
+        },
+        {
+            "Entry": "Demutualization",
+            "Definition": "Conversion of a mutual insurance company to a capital stock company."
+        },
+        {
+            "Entry": "Dental Insurance",
+            "Definition": "Policies providing only dental treatment benefits such as routine dental examinations, preventive dental work, and dental procedures needed to treat tooth decay and diseases of the teeth and jaw."
+        },
+        {
+            "Entry": "Dental Only",
+            "Definition": "Line of business providing dental only coverage; coverage can be on a stand-alone basis or as a rider to a medical policy. If the coverage is as a rider, deductibles or out-of-pocket limits must be set separately from the medical coverage. Does not include self-insured business as well as fehbp or medicare and medicaid programs."
+        },
+        {
+            "Entry": "Derivative",
+            "Definition": "Securities priced according to the value of other financial instruments such as commodity prices, interest rates, stock market prices, foreign or exchange rates."
+        },
+        {
+            "Entry": "Difference In Conditions (DIC) Insurance",
+            "Definition": "Special form of open-peril coverage written in conjunction with basic fire coverage and designed to provide protection against losses not reimbursed under the standard fire forms. Examples are flood and earthquake coverage."
+        },
+        {
+            "Entry": "Direct Incurred Loss",
+            "Definition": "Loss whereby the proximate cause is equivalent to the insured peril."
+        },
+        {
+            "Entry": "Direct Loss",
+            "Definition": "Damage to covered real or personal property caused by a covered peril."
+        },
+        {
+            "Entry": "Direct Writer",
+            "Definition": "An insurance company that sells policies to the insured through salaried representatives or exclusive agents only; reinsurance companies that deal directly with ceding companies instead of using brokers."
+        },
+        {
+            "Entry": "Direct Written Premium",
+            "Definition": "Total premiums received by an insurance company without any adjustments for the ceding of any portion of these premiums to the reinsurer."
+        },
+        {
+            "Entry": "Directors & Officers Liability",
+            "Definition": "Liability coverage protecting directors or officers of a corporation from liability arising out of the performance of their professional duties on behalf of the corporation."
+        },
+        {
+            "Entry": "Disability Income",
+            "Definition": "A policy designed to compensate insured individuals for a portion of the income they lose because of a disabling injury or illness."
+        },
+        {
+            "Entry": "Disability Income -  Long-Term",
+            "Definition": "Policies that provide a weekly or monthly income benefit for more than five years for individual coverage and more than one year for group coverage for full or partial disability arising from accident and/or sickness."
+        },
+        {
+            "Entry": "Disability Income - Short-Term",
+            "Definition": "Policies that provide a weekly or monthly income benefit for up to five years for individual coverage and up to one year for group coverage for full or partial disability arising from accident and/or sickness."
+        },
+        {
+            "Entry": "Dividend",
+            "Definition": "A refund of a portion of the premium paid by the insured from insurer surplus."
+        },
+        {
+            "Entry": "Domestic Insurer",
+            "Definition": "An insurance company that is domiciled and licensed in the state in which it sells insurance."
+        },
+        {
+            "Entry": "Dual Interest",
+            "Definition": "Insurance that protects the creditor's and the debtor's interest in the collateral securing the debtor's credit transaction. \"dual interest\"includes insurance commonly referred to as \"limited dual interest.\""
+        },
+        {
+            "Entry": "Dwelling Property/Personal Liability",
+            "Definition": "A special form of package policy composed of dwelling fire and/or allied lines, and personal liability insurance."
+        },
+        {
+            "Entry": "Early warning system",
+            "Definition": "A system designed by insurance industry regulators of identifying practices and risk-related trends that contribute to systemic risk by measuring insurer' financial stability."
+        },
+        {
+            "Entry": "Earned Premium",
+            "Definition": "Portion of insured's prepaid premium allocated to the insurance company's loss experience, expenses, and profit year-to-date"
+        },
+        {
+            "Entry": "Earthquake",
+            "Definition": "Property coverages for losses resulting from a sudden trembling or shaking of the earth, including that caused by volcanic eruption. Excluded are losses resulting from fire, explosion, flood or tidal wave following the covered event."
+        },
+        {
+            "Entry": "EBNR -  Earned but not reported",
+            "Definition": "Premium amount insurer reasonably expects to receive for which contracts are not yet final and exact amounts are not definite."
+        },
+        {
+            "Entry": "EDP Policies",
+            "Definition": "Coverage to protect against losses arising out of damage to or destruction of electronic data processing equipment and its software."
+        },
+        {
+            "Entry": "Effective Date",
+            "Definition": "Date at which an insurance policy goes into force."
+        },
+        {
+            "Entry": "Elevators and Escalators Liability",
+            "Definition": "Liability coverage for bodily injury or property damage arising from the use of elevators or escalators operated, maintained or controlled by the insured."
+        },
+        {
+            "Entry": "Employee Benefit Liability",
+            "Definition": "Liability protection for an employer for claims arising from provisions in an employee benefit insurance plan provided for the economic and social welfare of employees. Examples of items covered are pension plans, group life insurance, group health insurance, group disability income insurance, and accidental death and dismemberment."
+        },
+        {
+            "Entry": "Employee Retirement Income Security Act of 1974 (ERISA)",
+            "Definition": "A federal statute governing standards for private pension plans, including vesting requirements, funding mechanisms, and plan design."
+        },
+        {
+            "Entry": "Employers Liability",
+            "Definition": "Employers' liability coverage for the legal liability of employers arising out of injuries to employees. This code should be used when coverage is issued as an endorsement, or as part of a statutory workers' compensation policy."
+        },
+        {
+            "Entry": "Employment Practices Liability Coverage",
+            "Definition": "Liability insurance for employers providing coverage for wrongful termination, discrimination, or sexual harassment of the insured's current or former employees."
+        },
+        {
+            "Entry": "Encumbrance",
+            "Definition": "Outstanding mortgages or other debt related to real estate and any unpaid accrued acquisition or construction costs."
+        },
+        {
+            "Entry": "Endorsement",
+            "Definition": "An amendment or rider to a policy adjusting the coverages and taking precedence over the general contract."
+        },
+        {
+            "Entry": "Enrollment",
+            "Definition": "The total number of plans, not the total number of covered lives, providing coverage to the enrollee and their dependents."
+        },
+        {
+            "Entry": "Environmental Impairment Liability (EIL)",
+            "Definition": "Coverage for negligence or omission resulting in pollution or environmental contamination."
+        },
+        {
+            "Entry": "Environmental Pollution Liability",
+            "Definition": "Liability coverage of an insured to persons who have incurred bodily injury or property damage from acids, fumes, smoke, toxic chemicals, waste materials or other pollutants."
+        },
+        {
+            "Entry": "Equity Indexed Annuity",
+            "Definition": "A fixed annuity that earns interest or provides benefits that are linked to an external reference or equity index, subject to a minimum guarantee."
+        },
+        {
+            "Entry": "Errors and Omissions Liability non Medical",
+            "Definition": "Liability coverage of a professional or quasi professional insured to persons who have incurred bodily injury or property damage, or who have sustained any loss from omissions arising from the performance of services for others, errors in judgment, breaches of duty, or negligent or wrongful acts in business conduct."
+        },
+        {
+            "Entry": "Event Cancellation",
+            "Definition": "Coverage for financial loss because of the cancellation or postponement of a specific event due to weather or other unexpected cause beyond the control of the insured."
+        },
+        {
+            "Entry": "Excess and Umbrella Liability",
+            "Definition": "Liability coverage of an insured above a specific amount set forth in a basic policy issued by the primary insurer; or a self insurer for losses over a stated amount; or an insured or self insurer for known or unknown gaps in basic coverages or self insured retentions."
+        },
+        {
+            "Entry": "Excess of Loss Reinsurance",
+            "Definition": "Loss sharing mechanism where an insurer pays all claims up to a specified amount and a reinsurance company pays any claims in excess of stated amount."
+        },
+        {
+            "Entry": "Excess Workers' Compensation",
+            "Definition": "Either specific and/or aggregate excess workers' compensation insurance written above an attachment point or self-insured retention."
+        },
+        {
+            "Entry": "Expense Ratio",
+            "Definition": "Percentage of premium income used to attain and service policies. Derived by subtracting related expenses from incurred losses and dividing by written premiums."
+        },
+        {
+            "Entry": "Experience Rating",
+            "Definition": "Rating system where each group is rated entirely on the basis of its own expected claims in the coming period, with retrospective adjustments for prior periods. This method is prohibited under the conditions for federal qualification."
+        },
+        {
+            "Entry": "Exposure",
+            "Definition": "Risk of possible loss."
+        },
+        {
+            "Entry": "Extra Expense Insurance",
+            "Definition": "A type of property insurance for extraordinary expenses related to business interruption such as a back-up generator in case of power failure."
+        },
+        {
+            "Entry": "Face Amount",
+            "Definition": "The value of a policy to be provided upon maturity date or death."
+        },
+        {
+            "Entry": "Facultative Reinsurance",
+            "Definition": "Reinsurance for a specific policy for which terms can be negotiated by the original insurer and reinsurer."
+        },
+        {
+            "Entry": "FAIR Plan - Fair Access to Insurance Requirements",
+            "Definition": "State pools designed to provide insurance to property owners who are unable to obtain property insurance through conventional means."
+        },
+        {
+            "Entry": "Fair Value",
+            "Definition": "The amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale. Quoted market prices in active markets are the best evidence of fair value and shall be used as the basis for the measurement, if available. If a quoted market price is available, the fair value is the product of the number of trading units times market price."
+        },
+        {
+            "Entry": "Farmowners Insurance",
+            "Definition": "Farmowners insurance sold for personal, family or household purposes. This package policy is similar to a homeowners policy, in that it has been developed for farms and ranches and includes both property and liability coverage for personal and business losses. Coverage includes farm dwellings and their contents, barns, stables, other farm structures and farm inland marine, such as mobile equipment and livestock."
+        },
+        {
+            "Entry": "Federal Flood Insurance",
+            "Definition": "Coverage for qualifying residents and businesses in flood prone regions through the national flood insurance act, a federally subsidized flood insurance program enacted in 1968."
+        },
+        {
+            "Entry": "Federally Reinsured Crop",
+            "Definition": "Crop insurance coverage that is either wholly or in part reinsured by the federal crop insurance corporation (fcic) under the standard reinsurance agreement (sra). This includes the following products: multiple peril crop insurance (mpci); catastrophic insurance, crop revenue coverage (crc); income protection and revenue assurance."
+        },
+        {
+            "Entry": "Fees Payable",
+            "Definition": "Fees incurred but not yet paid."
+        },
+        {
+            "Entry": "FEMA - Federal Emergency Management Agency",
+            "Definition": "An independent agency, tasked with responding to, planning for, mitigating and recovery efforts of natural disasters."
+        },
+        {
+            "Entry": "Fidelity",
+            "Definition": "A bond or policy covering an employer's loss resulting from an employee's dishonest act (e.g., loss of cash, securities, valuables, etc.)."
+        },
+        {
+            "Entry": "Financial Guaranty",
+            "Definition": "A surety bond, insurance policy, or an indemnity contract (when issued by an insurer), or similar guaranty types under which loss is payable upon proof of occurrence of financial loss to an insured claimant, obligee or indemnitee as a result of failure to perform a financial obligation or any other permissible product that is defined as or determined to be financial guaranty insurance."
+        },
+        {
+            "Entry": "Financial Reporting",
+            "Definition": "Insurance companies are required to maintain records and file annual and quarterly financial statements with regulators in accordance with statutory accounting principles (sap). Statutory rules also govern how insurers should establish reserves for invested assets and claims and the conditions under which they can claim credit for reinsurance ceded."
+        },
+        {
+            "Entry": "Financial Responsibility Law",
+            "Definition": "A statute requiring motorists to show capacity to pay for automobile-related losses."
+        },
+        {
+            "Entry": "Financial Statement",
+            "Definition": "Balance sheet and profit and loss statement of an insurance company. This statement is used by the naic, and by state insurance commissioners to regulate an insurance company according to reserve requirements, assets, and other liabilities."
+        },
+        {
+            "Entry": "Fire",
+            "Definition": "Coverage protecting the insured against the loss to real or personal property from damage caused by the peril of fire or lightning, including business interruption, loss of rents, etc."
+        },
+        {
+            "Entry": "Fire Legal Liability",
+            "Definition": "Coverage for property loss liability as the result of separate negligent acts and/or omissions of the insured that allows a spreading fire to cause bodily injury or property damage of others. An example is a tenant who, while occupying another party's property, through negligence causes fire damage to the property."
+        },
+        {
+            "Entry": "Flood",
+            "Definition": "Coverage protecting the insured against loss or damage to real or personal property from flood. (note: if coverage for flood is offered as an additional peril on a property insurance policy, file it under the applicable property insurance filing code.)"
+        },
+        {
+            "Entry": "Foreign Insurer",
+            "Definition": "An insurance company selling policies in a state other than the state in which they are incorporated or domiciled."
+        },
+        {
+            "Entry": "Foreign Investment",
+            "Definition": "An investment in a foreign jurisdiction, or an investment in a person, real estate or asset domiciled in a foreign jurisdiction. An investment shall not be deemed to be foreign if the issuing person, qualified primary credits source or qualified guarantor is a domestic jurisdiction or a person domiciled in a domestic jurisdiction, unless: a) the issuing person is a shell business entity; and b) the investment is not assumed, accepted, guaranteed or insured or otherwise backed by a domestic jurisdiction or a person, that is not a shell business entity, domiciled in a domestic jurisdiction."
+        },
+        {
+            "Entry": "Foreign jurisdiction",
+            "Definition": "A jurisdiction outside of the united states, canada or any province or political subdivision of the foregoing."
+        },
+        {
+            "Entry": "Fraternal Insurance",
+            "Definition": "A form of group coverage or disability insurance available to members of a fraternal organization."
+        },
+        {
+            "Entry": "Fronting",
+            "Definition": "An arrangement in which a primary insurer acts as the insurer of record by issuing a policy, but then passes the entire risk to a reinsurer in exchange for a commission. Often, the fronting insurer is licensed to do business in a state or country where the risk is located, but the reinsurer is not."
+        },
+        {
+            "Entry": "Generally Accepted Accounting Principles (GAAP)",
+            "Definition": "An aggregate of the accounting standards, principles and best practices for the preparation of financial statements allowing for consistency in reporting."
+        },
+        {
+            "Entry": "Gramm-Leach Bliley Act (GLBA)",
+            "Definition": "Act, repealing glass-steagal act of 1933, allows consolidation of commercial banks, investment institutions and insurance companies. Established a framework of responsibilities of federal and state regulators for these financial industries. It permits financial services companies to merge and engage in a variety of new business activities, including insurance, while attempting to address the regulatory issues raised by such combinations."
+        },
+        {
+            "Entry": "Goodwill",
+            "Definition": "The difference between the cost of acquiring the entity and the reporting entity's share of the book value of the acquired entity."
+        },
+        {
+            "Entry": "Gross Paid-in and Contributed Surplus",
+            "Definition": "Amount of capital received in excess of the par value of the stock issued."
+        },
+        {
+            "Entry": "Gross Premium",
+            "Definition": "The net premium for insurance plus commissions, operating and miscellaneous commissions. For life insurance, this is the premium including dividends."
+        },
+        {
+            "Entry": "Group Accident and Health",
+            "Definition": "Coverage written on a group basis (e.g., employees of a single employer and their dependents) that pays scheduled benefits or medical expenses caused by disease, accidental injury or accidental death. Excludes amounts attributable to uninsured accidents and health plans and the uninsured portion of partially insured accident and health plans."
+        },
+        {
+            "Entry": "Group Annuities - Deferred Non-Variable and Variable",
+            "Definition": "An annuity contract that provides an accumulation based on both (1) funds that accumulate based on a guaranteed crediting interest rates or additional interest rate applied to designated considerations, and (2) funds where the accumulation vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. The contract provides for the initiation of payments at some designated future date."
+        },
+        {
+            "Entry": "Group Annuities - Deferred Variable",
+            "Definition": "An annuity contract that provides an accumulation based fund where the accumulation varies in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. Must include at least one option to have the accumulation vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder and may include at least one option to have the series of payments vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. This annuity contract provides for the initiation of payments at some designated future date."
+        },
+        {
+            "Entry": "Group Annuities - Immediate Non-Variable and Variable",
+            "Definition": "An annuity contract that provides an accumulation based on both (1) funds that accumulate based on a guaranteed crediting interest rates or additional interest rate applied to designated considerations, and (2) funds where the accumulation vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. The contract provides for the initiation of payments at some interval that may vary, however the annuity payouts must begin within 13 months."
+        },
+        {
+            "Entry": "Group Annuities - Immediate Variable",
+            "Definition": "An annuity contract that provides for the first payment of the annuity at the end of the fixed interval of payment after purchase. The interval may vary, however the annuity payouts must begin within 13 months. The amount varies with the value of equities (separate account) purchased as investments by the insurance companies."
+        },
+        {
+            "Entry": "Group Annuities - Unallocated",
+            "Definition": "Annuity contracts or portions thereof where the insurer purchases an annuity for the retirees."
+        },
+        {
+            "Entry": "Group Annuity",
+            "Definition": "A contract providing income for a specified period of time, or duration of life for a person or persons established to benefit a group of employees."
+        },
+        {
+            "Entry": "Group Health",
+            "Definition": "Health insurance issued to employers, associations, trusts, or other groups covering employees or members and/or their dependents, to whom a certificate of coverage may be provided."
+        },
+        {
+            "Entry": "Group Code",
+            "Definition": "A unique three to five digit number assigned by the naic to identify those companies that are part of a larger group of insurance companies."
+        },
+        {
+            "Entry": "Group Credit - Life",
+            "Definition": "Contracts sold in connection with loan/credit transactions or other credit transactions, which do not exceed a stated duration and/or amount and provide insurance protection against death."
+        },
+        {
+            "Entry": "Group Health Organizations - Health Maintenance (HMO)",
+            "Definition": "A plan under which an enrollee pays a membership fixed fee in advance in return for a wide range of comprehensive health care services with the hmo's approved providers in a designated service area."
+        },
+        {
+            "Entry": "Guaranty Fund",
+            "Definition": "Funding mechanism employed by states to provide funds to cover policyholder obligations of insolvent reporting entities."
+        },
+        {
+            "Entry": "Hard Market",
+            "Definition": "A market characterized by high demand and low supply."
+        },
+        {
+            "Entry": "Hazard",
+            "Definition": "Circumstance which tends to increase the probability or severity of a loss."
+        },
+        {
+            "Entry": "Health - Excess/Stop Loss",
+            "Definition": "This type of insurance may be extended to either a health plan or a self-insured employer plan. Its purpose is to insure against the risk that any one claim will exceed a specific dollar amount or that an entire plan's losses will exceed a specific amount."
+        },
+        {
+            "Entry": "Health Insurance",
+            "Definition": "A generic term applying to all types of insurance indemnifying or reimbursing for losses caused by bodily injury or illness including related medical expenses."
+        },
+        {
+            "Entry": "Health Maintenance Organization (HMO)",
+            "Definition": "A medical group plan that provides physician, hospital, and clinical services to participating members in exchange for a periodic flat fee."
+        },
+        {
+            "Entry": "Health Plan",
+            "Definition": "Written promise of coverage given to an individual, family, or group of covered individuals, where a beneficiary is entitled to receive a defined set of health care benefits in exchange for a defined consideration, such as a premium."
+        },
+        {
+            "Entry": "Hold-Harmless Agreement",
+            "Definition": "A risk transfer mechanism whereby one party assumes the liability of another party by contract"
+        },
+        {
+            "Entry": "Homeowners Insurance",
+            "Definition": "A package policy combining real and personal property coverage with personal liability coverage. Coverage applicable to the dwelling, appurtenant structures, unscheduled personal property and additional living expense are typical. Includes mobile homes at a fixed location."
+        },
+        {
+            "Entry": "Hospital Indemnity Coverage",
+            "Definition": "Coverage that provides a pre-determined, fixed benefit or daily indemnity for contingencies based on a stay at a hospital or intensive care facility."
+        },
+        {
+            "Entry": "Hull Insurance",
+            "Definition": "Coverage for damage to a vessel or aircraft and affixed items."
+        },
+        {
+            "Entry": "Incontestability Provision",
+            "Definition": "A life insurance and annuity provision limiting the time within which the insurer has the legal right to void the contract on grounds of material misrepresentation in the policy application."
+        },
+        {
+            "Entry": "Incurred But Not Reported (IBNR)",
+            "Definition": "(pure ibnr) claims that have occurred but the insurer has not been notified of them at the reporting date. Estimates are established to book these claims. May include losses that have been reported to the reporting entity but have not yet been entered into the claims system or bulk provisions. Bulk provisions are reserves included with other ibnr reserves to reflect deficiencies in known case reserves. Ibnr can sometimes include estimates of incurred but not enough reported (ibner)"
+        },
+        {
+            "Entry": "Incurred Claims",
+            "Definition": "Paid claims plus amounts held in reserve for those that have been incurred but not yet paid."
+        },
+        {
+            "Entry": "Incurred Losses",
+            "Definition": "Sustained losses, paid or not, during a specified time period. Incurred losses are typically found by combining losses paid during the period plus unpaid losses sustained during the time period minus outstanding losses at the beginning of the period incurred in the previous period."
+        },
+        {
+            "Entry": "Indemnity, Principle of",
+            "Definition": "A general legal principle related to insurance that holds that the individual recovering under an insurance policy should be restored to the approximate financial position he or she was in prior to the loss. Legal principle limiting compensation for damages be equivalent to the losses incurred."
+        },
+        {
+            "Entry": "Independent Adjuster",
+            "Definition": "Freelance contractor paid a fee for adjusting losses on behalf of companies."
+        },
+        {
+            "Entry": "Independent Agent",
+            "Definition": "A representative of multiple insurance companies who sells and services policies for records which they own and operate under the american agency system."
+        },
+        {
+            "Entry": "Independent Contractor",
+            "Definition": "An individual who is not employed for a company but instead works for themselves providing goods or services to clients for a fee."
+        },
+        {
+            "Entry": "Index Annuity",
+            "Definition": "An interest bearing fixed annuity tied to an equity index, such as the dow jones industrial average or s & p 500."
+        },
+        {
+            "Entry": "Individual Annuities - Deferred Variable",
+            "Definition": "An annuity contract that provides an accumulation based fund where the accumulation varies in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. Must include at least one option to have the accumulation vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder and may include at least one option to have the series of payments vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. This annuity contract provides for the initiation of payments at some designated future date."
+        },
+        {
+            "Entry": "Individual Annuities - Immediate Variable",
+            "Definition": "An annuity contract that provides for the first payment of the annuity at the end of the fixed interval of payment after purchase. The interval may vary, however the annuity payouts must begin within 13 months. The amount varies with the value of equities (separate account) purchased as investments by the insurance companies."
+        },
+        {
+            "Entry": "Individual Annuities - Special",
+            "Definition": "Contracts with certain noteworthy attributes."
+        },
+        {
+            "Entry": "Individual Annuities - Deferred Non-Variable and Variable",
+            "Definition": "An annuity contract that provides an accumulation based on both (1) funds that accumulate based on a guaranteed crediting interest rates or additional interest rate applied to designated considerations, and (2) funds where the accumulation vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. The contract provides for the initiation of payments at some designated future date."
+        },
+        {
+            "Entry": "Individual Annuities - Deferred Non-Variable",
+            "Definition": "An annuity contract that provides an accumulation based on funds that accumulate based on a guaranteed crediting interest rate or additional interest rate. This annuity contract provides for the initiation of payments at some designated future date."
+        },
+        {
+            "Entry": "Individual Annuities - Immediate Non-Variable",
+            "Definition": "An annuity contract that provides for the fixed payment of the annuity at the end of the first interval of payment after purchase. The interval may vary, however the annuity payouts must begin within 13 months."
+        },
+        {
+            "Entry": "Individual Annuities - Immediate Non-Variable and Variable",
+            "Definition": "An annuity contract that provides an accumulation based on both (1) funds that accumulate based on a guaranteed crediting interest rates or additional interest rate applied to designated considerations, and (2) funds where the accumulation vary in accordance with the rate of return of the underlying investment portfolio selected by the policyholder. The contract provides for the initiation of payments at some interval that may vary, however the annuity payouts must begin within 13 months."
+        },
+        {
+            "Entry": "Individual Health",
+            "Definition": "Health insurance where the policy is issued to an individual covering the individual and/or their dependents in the individual market. This includes conversions from group policies."
+        },
+        {
+            "Entry": "Individual Credit - Credit Disability",
+            "Definition": "Makes monthly loan/credit transaction payments to the creditor upon the disablement of an insured debtor."
+        },
+        {
+            "Entry": "Individual Credit - Life",
+            "Definition": "Contracts sold in connection with loan/credit transactions or other credit transactions, which do not exceed a stated duration and/or amount and provide insurance protection against death."
+        },
+        {
+            "Entry": "Industrial Life",
+            "Definition": "Industrial life insurance, also called \"debit\"insurance, is insurance under which premiums are paid monthly or more often, the face amount of the policy does not exceed a stated amount, and the words \"industrial policy\"are printed in prominent type on the face of the policy."
+        },
+        {
+            "Entry": "Inland Marine",
+            "Definition": "Coverage for property that may be in transit, held by a bailee, at a fixed location, a movable good that is often at different locations (e.g., off road constructions equipment), or scheduled property (e.g., homeowners personal property floater) including items such as live animals, property with antique or collector's value, etc. This line also includes instrumentalities of transportation and communication, such as bridges, tunnels, piers, wharves, docks, pipelines, power and phone lines, and radio and television towers."
+        },
+        {
+            "Entry": "Insurable Interest",
+            "Definition": "A right or relationship in regard to the subject matter of the insured contract such that the insured can suffer a financial loss from damage, loss or destruction to it. (bickelhaupt and magee )"
+        },
+        {
+            "Entry": "Insurance",
+            "Definition": "An economic device transferring risk from an individual to a company and reducing the uncertainty of risk via pooling."
+        },
+        {
+            "Entry": "Insurance Holding Company System",
+            "Definition": "Consists of two or more affiliated persons, one or more of which is an insurer."
+        },
+        {
+            "Entry": "Insurance Regulatory Information System (IRIS)",
+            "Definition": "A baseline solvency screening system for the national association of insurance commissioners (naic) and state insurance regulators established in the mid-1970s."
+        },
+        {
+            "Entry": "Insurance to Value",
+            "Definition": "Amount of insurance purchased vs. The actual replacement cost of the insured property expressed as a ratio."
+        },
+        {
+            "Entry": "Insured",
+            "Definition": "Party(ies) covered by an insurance policy."
+        },
+        {
+            "Entry": "Insurer",
+            "Definition": "An insurer or reinsurer authorized to write property and/or casualty insurance under the laws of any state."
+        },
+        {
+            "Entry": "Intermediary",
+            "Definition": "A person, corporation or other business entity (not licensed as a medical provider) that arranges, by contracts with physicians and other licensed medical providers, to deliver health services for a health insurer and its enrollees via a separate contract between the intermediary and the insurer."
+        },
+        {
+            "Entry": "International",
+            "Definition": "Includes all business transacted outside the U.S. And its territories and possessions where the appropriate line of business is not determinable."
+        },
+        {
+            "Entry": "Internet Liability Insurance/Cyber Insurance",
+            "Definition": "Coverage for cyber commerce including copyright infringement, libel, and violation of privacy."
+        },
+        {
+            "Entry": "Investment grade",
+            "Definition": "The obligation has been determined to be in one of the top four generic lettered rating classifications by a securities rating agency acceptable to the commissioner, that the obligation has been identified in writing by such a rating agency to be of investment grade quality, or, if the obligation has not been submitted to any such rating agency, that the obligation has been determined to be investment grade (class 1 and class 2) by the securities valuation office of the national association of insurance commissioners."
+        },
+        {
+            "Entry": "Investment Income Accrued",
+            "Definition": "Investment income earned as of the reporting date but not legally due to be paid to the reporting entity until subsequent to the reporting date."
+        },
+        {
+            "Entry": "Investment Income Due",
+            "Definition": "Investment income earned and legally due to be paid to the reporting entity as of the reporting date."
+        },
+        {
+            "Entry": "Investment Income Gross",
+            "Definition": "Shall be recorded as earned and shall include investment income collected during the period, the change in investment income due and accrued, the change in unearned investment income plus any amortization (e.g., discounts or premiums on bonds, origination fees on mortgage loans, etc.)"
+        },
+        {
+            "Entry": "Irrevocable Beneficiary",
+            "Definition": "A life insurance policy beneficiary who has a vested interest in the policy proceeds even during the insured's lifetime because the policy owner has the right to change the beneficiary designation only after obtaining the beneficiary's consent."
+        },
+        {
+            "Entry": "Joint and Last Survivor Annuity",
+            "Definition": "Retirement plan that continues to payout so long as at least one, of two or more, annuitants is alive."
+        },
+        {
+            "Entry": "Joint Underwriting Association (JUA)",
+            "Definition": "A loss-sharing mechanism combining several insurance companies to provide extra capacity due to type or size of exposure."
+        },
+        {
+            "Entry": "Joint-Life Annuity",
+            "Definition": "An annuity contract that ceases upon the death of the first of two or more annuitants."
+        },
+        {
+            "Entry": "Key-Persons Insurance",
+            "Definition": "A policy purchased by, for the benefit of, a business insuring the life or lives of personnel integral to the business operations."
+        },
+        {
+            "Entry": "Kidnap/Ransom Insurance",
+            "Definition": "Coverage for ransom or extortion costs and related expenses."
+        },
+        {
+            "Entry": "Lapse",
+            "Definition": "Termination of a policy due to failure to pay the required renewal premium."
+        },
+        {
+            "Entry": "Level Premium Insurance",
+            "Definition": "Life insurance policy for which the cost is equally distributed over the term of the premium period, remaining constant throughout."
+        },
+        {
+            "Entry": "Liability",
+            "Definition": "A certain or probable future sacrifice of economic benefits arising from present obligations of a particular entity to transfer assets or to provide services to other entities in the future as a result of a past transactions(s) or event(s). Three essential characteristics: a)    it embodies a present duty or responsibility to one or more other entities that entails settlement by probable future transfer or use of assets at a specified or determinable date, on occurrence of a specified event, or on demand; b)    the duty or responsibility obligates a particular entity, leaving it little or no discretion to avoid the future sacrifice; and c)    the transaction or other event obligating the entity has already happened."
+        },
+        {
+            "Entry": "Life - Endowment",
+            "Definition": "Insurance that pays the same benefit amount should the insured die during the term of the contract, or if the insured survives to the end of the specified coverage term or age."
+        },
+        {
+            "Entry": "Life - Flexible Premium Adjustable Life",
+            "Definition": "A group life insurance that provides a face amount that is adjustable to the certificate holder and allows the certificate holder to vary the modal premium that is paid or to skip a payment so long as the certificate value is sufficient to keep the certificate in force, and under which separately identified interest credits (other than in connection with dividend accumulation, premium deposit funds or other supplementary accounts) and mortality and expense charges are made to individual certificates while providing minimum guaranteed values."
+        },
+        {
+            "Entry": "Life Settlements",
+            "Definition": "A contract or agreement in which a policyholder agrees to sell or transfer ownership in all or part of a life insurance policy to a third party for compensation that is less than the expected death benefit of a policy."
+        },
+        {
+            "Entry": "Lifetime Disability Benefit",
+            "Definition": "A provision in some disability income policies to recoup lost wages for the term of disability or remainder of insured's life in case of permanent disability."
+        },
+        {
+            "Entry": "Limited Benefit",
+            "Definition": "Policies that provide coverage for vision, prescription drug, and/or any other single service plan or program. Also include short-term care policies that provide coverage for less than one year for medical and other services provided in a setting other than an acute care unit of the hospital."
+        },
+        {
+            "Entry": "Limited Payment Life Insurance",
+            "Definition": "A form of whole-life insurance with a pre-defined number of premiums to be paid."
+        },
+        {
+            "Entry": "Limited Policies",
+            "Definition": "Health insurance coverage for a certain ailment, such as cancer."
+        },
+        {
+            "Entry": "Limits",
+            "Definition": "Maximum value to be derived from a policy."
+        },
+        {
+            "Entry": "Line of Business",
+            "Definition": "Classification of business written by insurers."
+        },
+        {
+            "Entry": "Liquor Liability",
+            "Definition": "Coverage for the liability of an entity involved in the retail or wholesale sales of alcoholic beverages, or the serving of alcoholic beverages, to persons who have incurred bodily injury or property damage arising from an intoxicated person."
+        },
+        {
+            "Entry": "Living benefits rider",
+            "Definition": "A rider attached to a life insurance policy providing long term care for the terminally ill."
+        },
+        {
+            "Entry": "Lloyd's of London",
+            "Definition": "Association offering membership in various syndicates of wealthy individuals organized for the purpose of writing insurance for a particular hazard."
+        },
+        {
+            "Entry": "Loan-backed Securities",
+            "Definition": "Pass-through certificates, collateralized mortgage obligations (cmos), and other securitized loans not included in structured securities where payment of interest and/or principal is directly proportional to the interest and/or principal received by the issuer from the mortgage pool or other underlying securities."
+        },
+        {
+            "Entry": "Long Duration Contracts",
+            "Definition": "Contracts, excluding financial guaranty contracts, mortgage guaranty contracts and surety contracts, that fulfill both of the following conditions: (1) the contract term is greater than or equal to thirteen months and (2) the insurer can neither cancel nor increase the premium during the contract term."
+        },
+        {
+            "Entry": "Long-Term Care",
+            "Definition": "Policies that provide coverage for not less than one year for diagnostic, preventive, therapeutic, rehabilitative, maintenance, or personal care services provided in a setting other than an acute care unit of a hospital, including policies that provide benefits for cognitive impairment or loss of functional capacity. This includes policies providing only nursing home care, home health care, community based care, or any combination. The policy does not include coverage provided under comprehensive/major medical policies, medicare advantage, or for accelerated heath benefit-type products."
+        },
+        {
+            "Entry": "Long-Term Disability Income Insurance",
+            "Definition": "Policy providing monthly income payments for insureds who become disabled for an extensive length of time, typically two years or longer."
+        },
+        {
+            "Entry": "Loss",
+            "Definition": "Physical damage to property or bodily injury, including loss of use or loss of income"
+        },
+        {
+            "Entry": "Loss Adjustment Expense (LAE)",
+            "Definition": "Expected payments for costs to be incurred in connection with the adjustment and recording of losses. Can be classified into two broad categories: defense and cost containment (dcc) and adjusting and other (ao). Can also be separated into (allocated loss adjustment expense) and (unallocated loss adjustment expense for ratemaking purposes."
+        },
+        {
+            "Entry": "Loss Frequency",
+            "Definition": "Incidence of claims on a policy during a premium period."
+        },
+        {
+            "Entry": "Loss of Use Insurance",
+            "Definition": "Policy providing protection against loss of use due to damage or destruction of property."
+        },
+        {
+            "Entry": "Loss Payable Clause",
+            "Definition": "Coverage for third party mortgagee in case of default on insured property, secured by a loan, that has been lost or damaged."
+        },
+        {
+            "Entry": "Loss Ratio",
+            "Definition": "The percentage of incurred losses to earned premiums."
+        },
+        {
+            "Entry": "Loss Reserve",
+            "Definition": "The amount that insurers set aside to cover claims incurred but not yet paid."
+        },
+        {
+            "Entry": "Loss Reserves",
+            "Definition": "An estimate of liability or provision in an insurer's financial statement, indicating the amount the insurer expects to pay for losses incurred but not yet reported or reported claims that haven't been paid."
+        },
+        {
+            "Entry": "Losses Incurred",
+            "Definition": "Includes claims that have been paid and/or have amounts held in reserve for future payment"
+        },
+        {
+            "Entry": "Losses Incurred But Not Reported (IBNR)",
+            "Definition": "An estimated amount set aside by the insurance company to pay claims that may have occurred, but for some reason have not yet been reported to the insurance company."
+        },
+        {
+            "Entry": "Major Medical",
+            "Definition": "A hospital/surgical/medical expense contract that provides comprehensive benefits as defined in the state in which the contract will be delivered."
+        },
+        {
+            "Entry": "Malpractice",
+            "Definition": "Alleged misconduct or negligence in a professional act resulting in loss or injury."
+        },
+        {
+            "Entry": "Managed Care",
+            "Definition": "System of health care delivery that attempts to influence the utilization, quality, and cost of services provided."
+        },
+        {
+            "Entry": "Mandated benefits",
+            "Definition": "Insurance required by state or federal law."
+        },
+        {
+            "Entry": "Manufacturers Output Policies",
+            "Definition": "Provides broad form coverage of personal property of an insured manufacturer including raw material, goods in process, finished goods and goods shipped to customers."
+        },
+        {
+            "Entry": "Margin Premium",
+            "Definition": "A deposit that an organization is required to maintain with a broker with respect to the futures contracts purchased or sold."
+        },
+        {
+            "Entry": "Market Value",
+            "Definition": "Fair value or the price that could be derived from current sale of an asset."
+        },
+        {
+            "Entry": "Mechanical Breakdown Insurance",
+            "Definition": "Premiums attributable to policies covering repair or replacement service, or indemnification for that service, for the operational or structural failure of property due to defects in materials or workmanship, or normal wear and tear. (may cover motor vehicles, mobile equipment, boats, appliances, electronics, residual structures, etc.)"
+        },
+        {
+            "Entry": "Medicaid",
+            "Definition": "Policies issued in association with the federal/state entitlement program created by title xix of the social security act of 1965 that pays for medical assistance for certain individuals and families with low incomes and resources."
+        },
+        {
+            "Entry": "Medical & Hospital Expenses (Benefits or Claims)",
+            "Definition": "Total expenditures for health care services paid to or on behalf of members."
+        },
+        {
+            "Entry": "Medical Malpractice",
+            "Definition": "Insurance coverage protecting a licensed health care provider or health care facility against legal liability resulting from the death or injury of any person due to the insured's misconduct, negligence, or incompetence, in rendering or failure to render professional services."
+        },
+        {
+            "Entry": "Medical Only",
+            "Definition": "Line of business that provides medical only benefits without hospital coverage. An example would be provider-sponsored organizations where there is no coverage for other than provider (non-hospital) services. Does not include self-insured business, fehbp, medicare and medicaid programs, or dental only business."
+        },
+        {
+            "Entry": "Medical Professional Liability",
+            "Definition": "Insurance coverage protecting a licensed health care provider or health care facility against legal liability resulting from the death or injury of any person due to the insured's misconduct, negligence, or incompetence in rendering professional services. Medical professional liability is also known as medical malpractice."
+        },
+        {
+            "Entry": "Medicare",
+            "Definition": "A state assistance program, passed under title xviii of the social security amendments of 1965, to provide hospital and medical expense insurance to those over 65 years of age."
+        },
+        {
+            "Entry": "Medicare + Choice",
+            "Definition": "A major initiative in the balanced budget act of 1997 (also called medicare part c), under which medicare beneficiaries may select from among several managed care options or a medicare system."
+        },
+        {
+            "Entry": "Medicare Advantage Plan",
+            "Definition": "An hmo, ppo, or private fee-for service plan that contracts with medicare advantage prescription drug plan also includes drug benefits. The plan may provide extra coverage such as vision, hearing, dental, and/or health and wellness programs. Medicare pays a fixed amount for insured's care every month to the companies offering medicare advantage plans."
+        },
+        {
+            "Entry": "Medicare Cost",
+            "Definition": "Contract with center for medicare and medicaid services (cms) for medicare coverage. These contracts with cms provide reimbursement through pre-determined monthly amount per member based on a total estimated budget. The beneficiary may use providers outside the provider network. Does not include stand alone medicare part d plans."
+        },
+        {
+            "Entry": "Medicare Part D - Stand-Alone",
+            "Definition": "Stand-alone part d coverage written through individual contracts; stand-alone part d coverage written through group contracts and certificates; and part d coverage written on employer groups where the reporting entity is responsible for reporting claims to the centers for medicare & medicaid services (cms)."
+        },
+        {
+            "Entry": "Medicare Supplement",
+            "Definition": "Insurance coverage sold on an individual or group basis to help fill the \"gaps\"in the protections granted by the federal medicare program. This is strictly supplemental coverage and cannot duplicate any benefits provided by medicare. It is structured to pay part or all of medicare's deductibles and co-payments. It may also cover some services and expenses not covered by medicare. Also known as medigap\"insurance."
+        },
+        {
+            "Entry": "Medigap",
+            "Definition": "Supplementary private health insurance products to medicare insurance benefits."
+        },
+        {
+            "Entry": "Minimum Premium Plan",
+            "Definition": "An arrangement under which an insurance carrier will, for a fee, handle the administration of claims and insure against large claims for a self-insured group. The employer self-funds a fixed percentage (e.g. 90%) of the estimated monthly claims, and the insurer covers the remainder."
+        },
+        {
+            "Entry": "Mobile Homes - Homeowners",
+            "Definition": "Homeowners insurance sold to owners occupying the described mobile home."
+        },
+        {
+            "Entry": "Mobile Homes under Transport",
+            "Definition": "Coverage for mobile homes while under transport for personal or commercial use."
+        },
+        {
+            "Entry": "Modified Guaranteed",
+            "Definition": "An annuity that contains a provision that adjusts the value of withdrawn funds based on a formula in the contract. The formula reflects market value adjustments."
+        },
+        {
+            "Entry": "Member",
+            "Definition": "A person who has enrolled as a subscriber or an eligible dependent of a subscriber and for whom the health organization has accepted the responsibility for the provision of health services as may be contracted for."
+        },
+        {
+            "Entry": "Moral Hazard",
+            "Definition": "Personality characteristics that increase probability of losses. For example not taking proper care to protect insured property because the insured knows the insurance company will replace it if it is damaged or stolen."
+        },
+        {
+            "Entry": "Morale Hazard",
+            "Definition": "Negligence or disregard on the part of the insured which could lead to probable loss."
+        },
+        {
+            "Entry": "Morbidity",
+            "Definition": "The frequency or severity of disease or illness within a subset of the population."
+        },
+        {
+            "Entry": "Morbidity Risk",
+            "Definition": "The potential for a person to experience illness, injury, or other physical or psychological impairment, whether temporary or permanent. Morbidity risk excludes the potential for an individual's death, but includes the potential for an illness or injury that results in death."
+        },
+        {
+            "Entry": "Morbidity Table",
+            "Definition": "A statistical record of the rate of illness among the defined age groups."
+        },
+        {
+            "Entry": "Mortality Table",
+            "Definition": "Chart that shows the death rates of a particular population at each age displayed as the number of deaths per thousand."
+        },
+        {
+            "Entry": "Mortgage",
+            "Definition": "A note used to secure a loan for real property."
+        },
+        {
+            "Entry": "Mortgage Guaranty",
+            "Definition": "Insurance that indemnifies a lender for loss upon foreclosure if a borrower fails to meet required mortgage payments."
+        },
+        {
+            "Entry": "Mortgage Insurance",
+            "Definition": "A form of life insurance coverage payable to a third party lender/mortgagee upon the death of the insured/mortgagor for loss of loan payments."
+        },
+        {
+            "Entry": "Mortgage-Backed Securities",
+            "Definition": "A type of asset-backed security that is secured by a mortgage or collection of mortgages. These securities must also be grouped in one of the top two ratings as determined by an accredited credit rating agency, and usually pay periodic payments that are similar to coupon payments. Furthermore, the mortgage must have originated from a regulated and authorized financial institution."
+        },
+        {
+            "Entry": "Multi-Peril Insurance",
+            "Definition": "Personal and business property coverage combining several types of property insurance in one policy."
+        },
+        {
+            "Entry": "Municipal Bond Guarantee Insurance",
+            "Definition": "Coverage sold to municipalities to guarantee the principle payment on bonds issued."
+        },
+        {
+            "Entry": "Municipal Liability",
+            "Definition": "Liability coverage for the acts of a municipality."
+        },
+        {
+            "Entry": "Municipal obligation bond",
+            "Definition": "Any security, or other instrument, including a state lease but not a lease of any other governmental entity, under which a payment obligation is created, issued by or on behalf of a governmental unit to finance a project servicing a substantial public purpose, and 1) payable from tax revenues, but not tax allocations, within the jurisdiction of such governmental unit; 2) payable or guaranteed by the united states of america or any agency, department or nuclear utility project, public transportation facility (other than an airport facility) or public higher education facility; or 4) with respect to lease obligations, payable from future appropriations. Instrumentality thereof, or by a state housing agency; 3) payable from rates or charges (but not tolls) levied or collected in respect of a non"
+        },
+        {
+            "Entry": "Mutual Insurance Company",
+            "Definition": "A privately held insurer owned by its policyholders, operated as a non-profit that may or may not be incorporated."
+        },
+        {
+            "Entry": "Mutual Insurance Holding Company",
+            "Definition": "A company organized as a mutual and owning a capital stock insurer or insurers for the benefit of pooling risk for many people, typically those in the same industry."
+        },
+        {
+            "Entry": "Named Insured",
+            "Definition": "The individual defined as the insured in the policy contract. ."
+        },
+        {
+            "Entry": "Named Peril Coverage",
+            "Definition": "Insurance for losses explicitly defined in the policy contract."
+        },
+        {
+            "Entry": "National Association of Insurance Commissioners (NAIC)",
+            "Definition": "The U.S. Standard-setting and regulatory support organization created and governed by the chief insurance regulators from the 50 states, the district of columbia and five U.S. Territories. Through the naic, state insurance regulators establish standards and best practices, conduct peer review, and coordinate their regulatory oversight. Naic staff supports these efforts and represents the collective views of state regulators domestically and internationally. Naic members, together with the central resources of the naic, form the national system of state-based insurance regulation in the U.S."
+        },
+        {
+            "Entry": "Negligence",
+            "Definition": "Failure to exercise reasonable consideration resulting in loss or damage to oneself or others."
+        },
+        {
+            "Entry": "Net Admitted Assets",
+            "Definition": "Total of assets whose values are permitted by state law to be included in the annual statement of the insurer."
+        },
+        {
+            "Entry": "Net Income",
+            "Definition": "Total revenues from an insurer's operations less total expenses and income taxes"
+        },
+        {
+            "Entry": "Net Premiums Earned",
+            "Definition": "Premiums on property/casualty or health policies that will not have to be returned to the policyholder if the policy is cancelled."
+        },
+        {
+            "Entry": "NFIP -  National Flood Insurance Program",
+            "Definition": "Flood insurance and floodplain management for personal and business property administered under the national flood act of 1968. Encourages participation by private insurers through a flood insurance pool ."
+        },
+        {
+            "Entry": "Nonadmitted Assets",
+            "Definition": "Assets having economic value other than those which can be used to fulfill policyholder obligations, or those assets which are unavailable due to encumbrances or other third party interests and should not be recognized on the balance sheet."
+        },
+        {
+            "Entry": "Nonadmitted Insurer",
+            "Definition": "Insurance company not licensed to do business within a given state."
+        },
+        {
+            "Entry": "Non-controlled stock insurers",
+            "Definition": "Insurers in which a parent company has: 1) a financial interest represented by the direct or indirect ownership of less than 50% of voting shares, and 2) does not have the ability to exercise control over the insurer, e.g., through voting stock or management contract"
+        },
+        {
+            "Entry": "Non-proportional Reinsurance",
+            "Definition": "Reinsurance that is not secured on individual lives for specific individual amount of reinsurance, but rather reinsurance that protects the ceding company's overall experience on its entire portfolio of business, or at least a broad segment of it. The most common forms of non-proportional reinsurance are stop loss and catastrophe."
+        },
+        {
+            "Entry": "Notional Value",
+            "Definition": "The principal value upon which future payments are based in a derivative transaction as at a specific period in time (the \"as of\"reporting date) in the reporting currency."
+        },
+        {
+            "Entry": "Nationally Recognized Statistical Rating Organization (NRSRO)",
+            "Definition": "Refers to rating organizations so designated by the sec whose status has been confirmed by the securities valuation office. Examples are: moody's investors service, inc., standard & poor's (s&p), a.m. Best company (a.m. Best) and fitch ratings and dominion bond rating service (dbrs)."
+        },
+        {
+            "Entry": "Nuclear Energy Liability",
+            "Definition": "Coverage for bodily injury and property damage liability resulting from the nuclear energy material (whether or not radioactive) on the insured business's premises or in transit."
+        },
+        {
+            "Entry": "Occurrence",
+            "Definition": "An accident , including injurious exposure to conditions, which results, during the policy period in bodily injury or property damage neither expected or intended from the standpoint of the insured. (bickelhaupt and magee)"
+        },
+        {
+            "Entry": "Ocean Marine",
+            "Definition": "Coverage for ocean and inland water transportation exposures; goods or cargoes; ships or hulls; earnings; and liability."
+        },
+        {
+            "Entry": "Officer",
+            "Definition": "A president, vice-president, treasurer, actuary, secretary, controller and any other person who performs for the company functions corresponding to those performed by the foregoing officers."
+        },
+        {
+            "Entry": "Option",
+            "Definition": "An agreement giving the buyer the right to buy or receive, sell or deliver, enter into, extend or terminate, or effect a cash settlement based on the actual or expected price, level, performance or value of one or more underlying interests."
+        },
+        {
+            "Entry": "Other Accident and Health",
+            "Definition": "Accident and health coverages not otherwise properly classified as group accident and health or credit accident and health (e.g., collectively renewable and individual non-cancelable, guaranteed renewable, non-renewable for stated reasons only, etc.). Include all medicare part d prescription drug coverage, whether sold on a stand-alone basis or through a medicare advantage product and whether sold directly to an individual or through a group."
+        },
+        {
+            "Entry": "Other Considerations",
+            "Definition": "Unallocated annuity considerations and other unallocated deposits that incorporate any mortality or morbidity risk and are not reported as direct premiums, direct annuity considerations or deposit-type contract funds."
+        },
+        {
+            "Entry": "Other Liability",
+            "Definition": "Coverage protecting the insured against legal liability resulting from negligence, carelessness, or a failure to act resulting in property damage or personal injury to others."
+        },
+        {
+            "Entry": "Other Underwriting Expenses",
+            "Definition": "Allocable expenses other than loss adjustment expenses and investment expenses."
+        },
+        {
+            "Entry": "Owner Occupied",
+            "Definition": "Homeowners insurance sold to owners occupying the described property."
+        },
+        {
+            "Entry": "Package Policy",
+            "Definition": "Two or more distinct policies combined into a single contract."
+        },
+        {
+            "Entry": "Par Value",
+            "Definition": "The nominal or face value of a stock or bond."
+        },
+        {
+            "Entry": "Peril",
+            "Definition": "The cause of property damage or personal injury, origin of desire for insurance. \"cause of loss\""
+        },
+        {
+            "Entry": "Permanent Life Insurance",
+            "Definition": "Policy that remains active for the life of the insured."
+        },
+        {
+            "Entry": "Personal Auto Policy",
+            "Definition": "Coverage designed to insure private passenger automobiles and certain types of trucks owned by an individual or husband and wife."
+        },
+        {
+            "Entry": "Personal Earthquake",
+            "Definition": "Earthquake property coverage for personal, family or household purposes."
+        },
+        {
+            "Entry": "Personal Flood",
+            "Definition": "Separate flood insurance policy sold for personal, family or household purposes."
+        },
+        {
+            "Entry": "Personal GAP Insurance",
+            "Definition": "Credit insurance that insures the excess of the outstanding indebtedness over the primary property insurance benefits in the event of a total loss to a collateral asset."
+        },
+        {
+            "Entry": "Personal Injury Liability",
+            "Definition": "Liability coverage for those who have been discriminated against, falsely arrested, illegally detained, libeled, maliciously prosecuted, slandered, suffered from identity theft, mental anguish or alienation of affections, or have had their right of privacy violated."
+        },
+        {
+            "Entry": "Personal Injury Protection Coverage/PIP",
+            "Definition": "Automobile coverage available in states that have enacted no-fault laws or other auto reparation reform laws for treatment of injuries to the insured and passengers of the insured."
+        },
+        {
+            "Entry": "Personal Property",
+            "Definition": "Single interest or dual interest credit insurance (where collateral is not a motor vehicle, mobile home, or real estate) that covers perils to goods purchased or used as collateral and that concerns a creditor's interest in the purchased goods or pledged collateral either in whole or in part; or covers perils to goods purchased in connection with an open-end credit transaction."
+        },
+        {
+            "Entry": "Pet Insurance Plans",
+            "Definition": "Veterinary care plan insurance policy providing care for a pet animal (e.g., dog or cat) of the insured owner in the event of its illness or accident."
+        },
+        {
+            "Entry": "Policy",
+            "Definition": "A written contract ratifying the legality of an insurance agreement."
+        },
+        {
+            "Entry": "Policy Dividend",
+            "Definition": "A refund of part of the premium on a participating life insurance policy. Amount of payment is determined by subtracting the actual premium expense from the premium charged. The payment can be taken as cash, applied to a purchase an increment of paid-up insurance, left on deposit with the insurance company or applied to purchase term insurance for one year."
+        },
+        {
+            "Entry": "Policy Period",
+            "Definition": "Time period during which insurance coverage is in effect."
+        },
+        {
+            "Entry": "Policy Reserve",
+            "Definition": "The amount of money allocated specifically for the fulfillment of policy obligations by a life insurance company; reserves are in place to safeguard that the company is able to pay all future claims."
+        },
+        {
+            "Entry": "Policyholders Surplus",
+            "Definition": "Assets in excess of the liabilities of a company or net income above any monies indebted to legal obligation."
+        },
+        {
+            "Entry": "Pollution",
+            "Definition": "Environmental contamination."
+        },
+        {
+            "Entry": "Pool",
+            "Definition": "An association organized for the purpose of absorbing losses through a risk-sharing mechanism thereby limiting individual exposures."
+        },
+        {
+            "Entry": "Preferred Provider Organization (PPO)",
+            "Definition": "Arrangement, insured or uninsured, where contracts are established by health plan companies (typically, commercial insurers, and, in some circumstances, by self-insured employers) with health care providers. The health plans involved will often designate these contracted providers as \"preferred\"and will provide an incentive, usually in the form of lower deductibles or co-payments, to encourage covered individuals to use these providers. Members are allowed benefits for non-participating provider services on an indemnity basis with significant copayments and providers are often, but not always, paid on a discounted fee for service basis."
+        },
+        {
+            "Entry": "Preferred Risk",
+            "Definition": "Insured, or applicant for insurance, who presents likelihood of risk lower than that of the standard applicant."
+        },
+        {
+            "Entry": "Premises and Operations",
+            "Definition": "Policies covering the liability of an insured to persons who have incurred bodily injury or property damage on an insured's premises during normal operations or routine maintenance, or from an insured's business operations either on or off of the insured's premises."
+        },
+        {
+            "Entry": "Premium",
+            "Definition": "Money charged for the insurance coverage reflecting expectation of loss."
+        },
+        {
+            "Entry": "Premiums Earned",
+            "Definition": "The portion of premium for which the policy protection or coverage has already been given during the now-expired portion of the policy term."
+        },
+        {
+            "Entry": "Premiums Net",
+            "Definition": "Is the amount calculated on the basis of the interest and mortality table used to calculate the reporting entity's statutory policy reserves."
+        },
+        {
+            "Entry": "Premiums Written",
+            "Definition": "Total premiums generated from all policies (contracts) written by an insurer within a given period of time."
+        },
+        {
+            "Entry": "Primary Insurance",
+            "Definition": "Coverage that takes precedence when more than one policy covers the same loss."
+        },
+        {
+            "Entry": "Prior Approval Law",
+            "Definition": "A state regulatory requirement for pre-approval of all insurance rates and forms."
+        },
+        {
+            "Entry": "Private Passenger Auto (PPA)",
+            "Definition": "Filings that include singularly or in any combination coverage such as the following: auto liability, personal injury protection (pip), medical payments (mp), uninsured/underinsured (um/uim); specified causes of loss, comprehensive, and collision."
+        },
+        {
+            "Entry": "Producer",
+            "Definition": "An individual who sells, services, or negotiates insurance policies either on behalf of a company or independently."
+        },
+        {
+            "Entry": "Product Liability",
+            "Definition": "Insurance coverage protecting the manufacturer, distributor, seller, or lessor of a product against legal liability resulting from a defective condition causing personal injury, or damage, to any individual or entity, associated with the use of the product."
+        },
+        {
+            "Entry": "Professional Errors and Omissions Liability",
+            "Definition": "Coverage available to pay for liability arising out of the performance of professional or business related duties, with coverage being tailored to the needs of the specific profession. Examples include abstracters, accountants, insurance adjusters, architects, engineers, insurance agents and brokers, lawyers, real estate agents, stockbrokers."
+        },
+        {
+            "Entry": "Property",
+            "Definition": "Coverage protecting the insured against loss or damage to real or personal property from a variety of perils, including but not limited to fire, lightening, business interruption, loss of rents, glass breakage, tornado, windstorm, hail, water damage, explosion, riot, civil commotion, rain, or damage from aircraft or vehicles."
+        },
+        {
+            "Entry": "Pro-rata (proportional) Reinsurance",
+            "Definition": "Portion of the losses and premium reinsurer shares with the ceding entity."
+        },
+        {
+            "Entry": "Protected Cell",
+            "Definition": "An insurance-linked security retained within the insurance or reinsurance company and is used to insulate the proceeds of the securities offering from the general business risks of the insurer, granting an additional comfort level for investors of the securitized instrument."
+        },
+        {
+            "Entry": "Protection and Indemnity (P&I) Insurance",
+            "Definition": "A broad form of marine legal liability insurance coverage."
+        },
+        {
+            "Entry": "Provider Sponsored Network (PSN)",
+            "Definition": "Formal affiliations of providers, sometimes called \"integrated delivery systems\", organized and operated to provide an integrated network of health care providers with which third parties, such as insurance companies, hmos, or other health plan companies, may contract for health care services to covered individuals. Some models of integration include physician hospital organizations, management service organizations, group practices without walls, medical foundations, and health provider cooperatives."
+        },
+        {
+            "Entry": "Provisions",
+            "Definition": "Contingencies outlined in an insurance policy."
+        },
+        {
+            "Entry": "Proximate Cause",
+            "Definition": "Event covered under insured's policy agreement."
+        },
+        {
+            "Entry": "Public Adjuster",
+            "Definition": "Independent claims adjuster representing policyholders instead of insurance companies."
+        },
+        {
+            "Entry": "Pure Premium",
+            "Definition": "That portion of the premium equal to expected losses void of insurance company expenses, premium taxes, contingencies, or profit margin."
+        },
+        {
+            "Entry": "Pure Risk",
+            "Definition": "Circumstance including possibility of loss or no loss but no possibility of gain."
+        },
+        {
+            "Entry": "Qualified Actuary",
+            "Definition": "A person who meets the basic education, experience and continuing education requirements (these differ by line of business) of the specific qualification standard for statements of actuarial opinion, naic property and casualty annual statement, as set forth in the qualification standards for actuaries issuing statements of actuarial opinion in the united states, promulgated by the american academy of actuaries, and is in good standing of the american academy of actuaries who has been approved as qualified for signing casualty loss reserve opinions by the casualty practice council of the american academy of actuaries."
+        },
+        {
+            "Entry": "Rate",
+            "Definition": "Value of insured losses expressed as a cost per unit of insurance."
+        },
+        {
+            "Entry": "Risk Based Capital (RBC) Ratio",
+            "Definition": "Ratio used to identify insurance companies that are poorly capitalized. Calculated by dividing the company's capital by the minimum amount of capital regulatory authorities have deemed necessary to support the insurance operations."
+        },
+        {
+            "Entry": "Rebate",
+            "Definition": "A refund of part or all of a premium payment."
+        },
+        {
+            "Entry": "Reinsurance",
+            "Definition": "A transaction between a primary insurer and another licensed (re) insurer where the reinsurer agrees to cover all or part of the losses and/or loss adjustment expenses of the primary insurer. The assumption is in exchange for a premium. Indemnification is on a proportional or non-proportional basis."
+        },
+        {
+            "Entry": "Reinsurer",
+            "Definition": "Company assuming reinsurance risk."
+        },
+        {
+            "Entry": "Renewable Term Insurance",
+            "Definition": "Insurance that is renewable for a limited number of successive terms by the policyholder and is not contingent upon medical examination."
+        },
+        {
+            "Entry": "Renters Insurance",
+            "Definition": "Liability coverage for contents within a renter's residence. Coverage does not include the structure but does include any affixed items provided or changed by the renter."
+        },
+        {
+            "Entry": "Replacement Cost",
+            "Definition": "The cost of replacing property without a reduction for depreciation due to normal wear and tear."
+        },
+        {
+            "Entry": "Reported Losses",
+            "Definition": "Includes both expected payments for losses relating to insured events that have occurred and have been reported to the insurance company, but not yet paid."
+        },
+        {
+            "Entry": "Reserve",
+            "Definition": "A portion of the premium retained to pay future claims"
+        },
+        {
+            "Entry": "Reserve Credit",
+            "Definition": "Reduction of reserve amounts for reinsurance ceded. Reductions may include the claim reserve and/or the unearned premium reserve."
+        },
+        {
+            "Entry": "Residence",
+            "Definition": "The domicile location of a member as shown by his or her determination as a resident."
+        },
+        {
+            "Entry": "Residual Market Plan",
+            "Definition": "Method devised for coverage of greater than average risk individuals who cannot obtain insurance through normal market channels."
+        },
+        {
+            "Entry": "Retention",
+            "Definition": "A mechanism of internal fund allocation for loss exposure used in place of or as a supplement to risk transfer to an insurance company."
+        },
+        {
+            "Entry": "Retention Limit",
+            "Definition": "Maximum amount of medical and hospital expense an insurer will carry on its own. The limit can be for an individual claim and/or for the insurers total claims, depending upon the terms of the reinsurance contract."
+        },
+        {
+            "Entry": "Retrocession",
+            "Definition": "The portion of risk that a reinsurance company cedes or amount of insurance the company chooses not to retain."
+        },
+        {
+            "Entry": "Retrospective Rating",
+            "Definition": "The process of determining the cost of an insurance policy based on the actual loss experience determined as an adjustment to the initial premium payment."
+        },
+        {
+            "Entry": "Rider",
+            "Definition": "An amendment to a policy agreement."
+        },
+        {
+            "Entry": "Risk",
+            "Definition": "Uncertainty concerning the possibility of loss by a peril for which insurance is pursued."
+        },
+        {
+            "Entry": "Risk Retention Act",
+            "Definition": "A 1986 federal statute amending portions of the product liability risk retention act of 1981 and enacted to make organization of risk retention groups and purchasing groups more efficient."
+        },
+        {
+            "Entry": "Risk Retention Group",
+            "Definition": "Group-owned insurer organized for the purpose of assuming and spreading the liability risks to its members."
+        },
+        {
+            "Entry": "Salvage",
+            "Definition": "Value recoverable after a loss."
+        },
+        {
+            "Entry": "Statutory Accounting Principles (SAP)",
+            "Definition": "A set of accounting principles set forth by the national association of insurance commissioners used to prepare statutory financial statements for insurance companies."
+        },
+        {
+            "Entry": "Securitization of Insurance Risk",
+            "Definition": "A method for insurance companies to access capital and hedge risks by converting policies into securities that can be sold in financial markets."
+        },
+        {
+            "Entry": "Security",
+            "Definition": "A share, participation, or other interest in property or in an enterprise of the issuer or an obligation of the issuer."
+        },
+        {
+            "Entry": "Self-Insurance",
+            "Definition": "Type of insurance often used for high frequency low severity risks where risk is not transferred to an insurance company but retained and accounted for internally."
+        },
+        {
+            "Entry": "Separate Account",
+            "Definition": "Segregated funds held and invested independently of other assets by an insurer for the purpose of a group retirement fund."
+        },
+        {
+            "Entry": "Short-term Disability",
+            "Definition": "A company standard defining a period of time employees are eligible for short-term disability coverage, typically for 2 years or less."
+        },
+        {
+            "Entry": "Short-Term Medical",
+            "Definition": "Policies that provide major medical coverage for a short period of time, typically 30 to 180 days. These policies may be renewable for multiple periods."
+        },
+        {
+            "Entry": "Situs of Contract",
+            "Definition": "The jurisdiction in which the contract is issued or delivered as stated in the contract."
+        },
+        {
+            "Entry": "Social Insurance",
+            "Definition": "Compulsory insurance plan administered by a federal or state government agency with the primary emphasis on social adequacy."
+        },
+        {
+            "Entry": "Soft Market",
+            "Definition": "A buyer's market characterized by abundant supply of insurance driving premiums down."
+        },
+        {
+            "Entry": "Special revenue bond",
+            "Definition": "Any security, or other instrument under which a payment obligation is created, issued by or on behalf of a governmental unit to finance a project serving a substantial public purpose and not payable from the sources in connection with the payment of municipal obligation bonds."
+        },
+        {
+            "Entry": "Specified Disease Coverage",
+            "Definition": "Coverage that provides primarily pre-determined benefits for expenses of the care of cancer and/or other specified diseases."
+        },
+        {
+            "Entry": "Specified/Named Disease",
+            "Definition": "Policies that provide benefits only for the diagnosis and/or treatment of a specifically named disease or diseases. Benefits can be paid as expense incurred, per diem or as a principal sum."
+        },
+        {
+            "Entry": "Standard Risk",
+            "Definition": "A person who, according to a company's underwriting standards, is considered a normal risk and insurable at standard rates. High or low risk candidates may qualify for extra or discounted rates based on their deviation from the standard."
+        },
+        {
+            "Entry": "State Children's Health Insurance Program",
+            "Definition": "Policies issued in association with the federal/state partnership created by title xxi of the social security act."
+        },
+        {
+            "Entry": "State of Domicile",
+            "Definition": "The state where a company's home office is located."
+        },
+        {
+            "Entry": "State Page",
+            "Definition": "Exhibit of premiums and losses for each state a company is licensed. The state of domicile receives a schedule for each jurisdiction the company wrote direct business, or has amounts paid, incurred or unpaid."
+        },
+        {
+            "Entry": "Statement Type",
+            "Definition": "Refers to the primary business type under which the company files its annual and quarterly statement, such as life, property, health, fraternal, title."
+        },
+        {
+            "Entry": "Statement Value",
+            "Definition": "The statutory accounting principle book value reduced by any valuation allowance and non-admitted adjustment applied to an individual investment or a similar group of investments, e.g., bonds, mortgage loans, common stock."
+        },
+        {
+            "Entry": "Statutory Accounting",
+            "Definition": "Method of accounting standards and principles used by state regulatory authorities to measure the financial condition of regulated companies and other insurance enterprises. This method tends to be more conservative than the generally accepted accounting principles used by most businesses. Compliance with solvency and other standards is determined using financial documents prepared in accordance with statutory accounting principles."
+        },
+        {
+            "Entry": "Stock Insurance Company",
+            "Definition": "Business owned by stockholders."
+        },
+        {
+            "Entry": "Stop Loss/Excess Loss",
+            "Definition": "Individual or group policies providing coverage to a health plan, a self-insured employer plan, or a medical provider providing coverage to insure against the risk that any one claim or an entire plan's losses will exceed a specified dollar amount."
+        },
+        {
+            "Entry": "Structured Securities",
+            "Definition": "Backed securities that have been divided into two or more classes of investors where the payment of interest and/or principal of any class of securities has been allocated in a manner that is not proportional to interest and/or principal received by the issuer from the mortgage pool or other underlying securities."
+        },
+        {
+            "Entry": "Structured Settlements",
+            "Definition": "Periodic fixed payments to a claimant for a determinable period, or for life, for the settlement of a claim."
+        },
+        {
+            "Entry": "Subrogation",
+            "Definition": "Situation where an insurer, on behalf of the insured, has a legal right to bring a liability suit against a third party who caused losses to the insured. Insurer maintains the right to seek reimbursement for losses incurred by insurer at the fault of a third party."
+        },
+        {
+            "Entry": "Subrogation Clause",
+            "Definition": "Section of insurance policies giving an insurer the right to take legal action against a third party responsible for a loss to an insured for which a claim has been paid."
+        },
+        {
+            "Entry": "Subsequent Event",
+            "Definition": "Events or transactions that occur subsequent to the balance sheet date, but before the issuance of the statutory financial statements and before the date the audited financial statements are issued, or available to be issued."
+        },
+        {
+            "Entry": "Substandard Risk",
+            "Definition": "(impaired risk) risks deemed undesirable due to medical condition or hazardous occupation requiring the use of a waiver, a special policy form, or a higher premium charge."
+        },
+        {
+            "Entry": "Superfund",
+            "Definition": "Federal act mandating retroactive liability for environmental pollution where responsible party maintains accountability for environmental clean-up regardless of length of time since polluting event occurred."
+        },
+        {
+            "Entry": "Surety Bond",
+            "Definition": "A three-party agreement whereby a guarantor (insurer) assumes an obligation or responsibility to pay a second party (obligee) should the principal debtor (obligor) become in default."
+        },
+        {
+            "Entry": "Surplus",
+            "Definition": "Insurance term referring to retained earnings."
+        },
+        {
+            "Entry": "Surplus Line",
+            "Definition": "Specialized property or liability coverage available via nonadmitted insurers where coverage is not available through an admitted insurer, licensed to sell that particular coverage in the state."
+        },
+        {
+            "Entry": "Swap",
+            "Definition": "An agreement to exchange or net payments as the buyer of an option, cap or floor and to make payments as the seller of a different option, cap or floor."
+        },
+        {
+            "Entry": "Tenants",
+            "Definition": "Homeowners insurance sold to tenants occupying the described property."
+        },
+        {
+            "Entry": "Term",
+            "Definition": "Period of time for which policy is in effect."
+        },
+        {
+            "Entry": "Term Insurance",
+            "Definition": "Life insurance payable only if death of insured occurs within a specified time, such as 5 or 10 years, or before a specified age."
+        },
+        {
+            "Entry": "Third Party",
+            "Definition": "Person other than the insured or insurer who has incurred losses or is entitled to receive payment due to acts or omissions of the insured."
+        },
+        {
+            "Entry": "Title Insurance",
+            "Definition": "Coverage that guarantees the validity of a title to real and personal property. Buyers of real and personal property and mortgage lenders rely upon the coverage to protect them against losses from undiscovered defects in existence when the policy is issued."
+        },
+        {
+            "Entry": "Total Liabilities",
+            "Definition": "Total money owed or expected to be owed by the insurance company."
+        },
+        {
+            "Entry": "Total Revenue",
+            "Definition": "Premiums, revenue, investment income, and income from other sources."
+        },
+        {
+            "Entry": "Travel Coverage",
+            "Definition": "Covers financial loss due to trip cancellation/interruption; lost or damaged baggage; trip or baggage delays; missed connections and/or changes in itinerary; and casualty losses due to rental vehicle damage."
+        },
+        {
+            "Entry": "Treaty ",
+            "Definition": "A reinsurance agreement between the ceding company and reinsurer."
+        },
+        {
+            "Entry": "Unallocated Loss Adjustment Expense (ULAE)",
+            "Definition": "Loss adjustment expenses that cannot be specifically tied to a claim."
+        },
+        {
+            "Entry": "Umbrella and Excess (Commercial)",
+            "Definition": "Coverage for the liability of a commercial venture above a specific amount set forth in a basic policy issued by the primary insurer; or a self-insurer for losses over a stated amount; or an insured or self-insurer for known or unknown gaps in basic coverages or self-insured retentions."
+        },
+        {
+            "Entry": "Umbrella and Excess (Personal)",
+            "Definition": "Non-business liability protection for individuals above a specific amount set forth in a basic policy issued by the primary insurer; or a self-insurer for losses over a stated amount; or an insured or self-insurer for known or unknown gaps in basic coverages or self-insured retentions."
+        },
+        {
+            "Entry": "Unauthorized Reinsurance",
+            "Definition": "Reinsurance placed with a company not authorized in the reporting company's state of domicile."
+        },
+        {
+            "Entry": "Underinsured Motorist Coverage",
+            "Definition": "Policy option for bodily injury or property losses caused by a motorist with coverage insufficient to cover total dollar amount of losses. Compensation for the injured party is equal to the difference between the losses incurred and the liability covered by the motorist at fault."
+        },
+        {
+            "Entry": "Underlying Interest",
+            "Definition": "The asset(s), liability(ies) or other interest(s) underlying a derivative instrument, including, but not limited to, any one or more securities, currencies, rates indices, commodities, derivative instruments, or other financial market instruments."
+        },
+        {
+            "Entry": "Underwriter",
+            "Definition": "Person who identifies, examines and classifies the degree of risk represented by a proposed insured in order to determine whether or not coverage should be provided and, if so, at what rate."
+        },
+        {
+            "Entry": "Underwriting",
+            "Definition": "The process by which an insurance company examines risk and determines whether the insurer will accept the risk or not, classifies those accepted and determines the appropriate rate for coverage provided."
+        },
+        {
+            "Entry": "Underwriting Risk",
+            "Definition": "Section of the risk-based capital formula calculating requirements for reserves and premiums."
+        },
+        {
+            "Entry": "Unearned Premium",
+            "Definition": "Amount of premium for which payment has been made by the policyholder but coverage has not yet been provided."
+        },
+        {
+            "Entry": "Unearned Premium Reserve",
+            "Definition": "All premiums (fees) received for coverage extending beyond the statement date; appears as a liability on the balance sheet."
+        },
+        {
+            "Entry": "Universal Life Insurance",
+            "Definition": "Adjustable life insurance under which premiums and coverage are adjustable, company expenses are not specifically disclosed to the insured but a financial report is provided to policyholder's annually."
+        },
+        {
+            "Entry": "Unpaid Losses",
+            "Definition": "Claims that are in the course of settlement. The term may also include claims that have been incurred but not reported."
+        },
+        {
+            "Entry": "Valued Policy",
+            "Definition": "An insurance contract for which the value is agreed upon in advance and is not related to the amount of the insured loss."
+        },
+        {
+            "Entry": "Valued Policy Law",
+            "Definition": "State legislation which specifies that the insured shall receive the face amount of the policy in the event of a total loss to a dwelling rather than the actual cash value regardless of the principle of indemnity."
+        },
+        {
+            "Entry": "Variable Annuity",
+            "Definition": "An annuity contract under which the premium payments are used to purchase stock and the value of each unit is relative to the value of the investment portfolio."
+        },
+        {
+            "Entry": "Variable Life Insurance",
+            "Definition": "Life insurance whose face value and/or duration varies depending upon the value of underlying securities."
+        },
+        {
+            "Entry": "Variable Universal Life",
+            "Definition": "Combines the flexible premium features of universal life with the component of variable life in which excess credited to the cash value of the account depends on investment results of separate accounts. The policyholder selects the accounts into which the premium payments are to be made."
+        },
+        {
+            "Entry": "Viatical Settlements",
+            "Definition": "Contracts or agreements in which a buyer agrees to purchase all or a part of a life insurance policy."
+        },
+        {
+            "Entry": "Vision",
+            "Definition": "Limited benefit expense policies. Provides benefits for eye care and eye care accessories. Generally provides a stated dollar amount per annual eye examination. Benefits often include a stated dollar amount for glasses and contacts. May include surgical benefits for injury or sickness associated with the eye."
+        },
+        {
+            "Entry": "Warrant",
+            "Definition": "An agreement that gives the holder the right to purchase an underlying financial instrument at a given price and time or at a series of prices and times according to a schedule or warrant agreement."
+        },
+        {
+            "Entry": "Warranty",
+            "Definition": "Coverage that protects against manufacturer's defects past the normal warranty period and for repair after breakdown to return a product to its originally intended use. Warranty insurance generally protects consumers from financial loss caused by the seller's failure to rectify or compensate for defective or incomplete work and cost of parts and labor necessary to restore a product's usefulness. Includes but is not limited to coverage for all obligations and liabilities incurred by a service contract provider, mechanical breakdown insurance and service contracts written by insurers."
+        },
+        {
+            "Entry": "Whole Life",
+            "Definition": "Life insurance that may be kept in force for a person's entire life and that pays a benefit upon the person's death, whenever that may be."
+        },
+        {
+            "Entry": "Whole Life Insurance",
+            "Definition": "Life insurance that may be kept in force for the duration of a person's life and pays a benefit upon the person's death. Premiums are made for same time period."
+        },
+        {
+            "Entry": "Workers' Compensation",
+            "Definition": "Insurance that covers an employer's liability for injuries, disability or death to persons in their employment, without regard to fault, as prescribed by state or federal workers' compensation laws and other statutes."
+        },
+        {
+            "Entry": "Written Premium",
+            "Definition": "The contractually determined amount charged by the reporting entity to the policyholder for the effective period of the contract based on the expectation of risk, policy benefits, and expenses associated with the coverage provided by the terms of the insurance contract."
+        }
+]
