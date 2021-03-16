@@ -15,8 +15,9 @@ update_fastlane
 
 default_platform(:ios)
 
-enable_automatic_code_signing(
-  path: "/Users/aplanetbit/StudioProjects/diccionario_panocho/ios/Runner.xcodeproj"
+update_code_signing_settings(
+  path: "/Users/aplanetbit/StudioProjects/diccionario_panocho/ios/Runner.xcodeproj",
+  use_automatic_signing: true
 )
 
 platform :ios do
