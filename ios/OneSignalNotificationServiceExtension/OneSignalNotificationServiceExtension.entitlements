@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.aplanetbit.dictionary.of.insurance.onesignal</string>
+		<string>group.com.aplanetbit.diccionario.panocho.onesignal</string>
 	</array>
 </dict>
 </plist>
