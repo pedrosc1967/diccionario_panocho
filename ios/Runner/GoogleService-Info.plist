@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>975579300298-otppfcgmqhph48afoqb7ivr94cjdu4gf.apps.googleusercontent.com</string>
+	<string>543577180257-365vro5bekt026up8u6i3f38lsd2s3o2.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.975579300298-otppfcgmqhph48afoqb7ivr94cjdu4gf</string>
+	<string>com.googleusercontent.apps.543577180257-365vro5bekt026up8u6i3f38lsd2s3o2</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCbzNVc9_JCsyMJxquXohgPrBW7jKwpdyA</string>
+	<string>AIzaSyAadjVTijrckzMdNdEzlLngl-1djXV0sDg</string>
 	<key>GCM_SENDER_ID</key>
-	<string>975579300298</string>
+	<string>543577180257</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.aplanetbit.diccionario.panocho</string>
 	<key>PROJECT_ID</key>
-	<string>dicctionario-panocho</string>
+	<string>diccionario-de-panocho</string>
 	<key>STORAGE_BUCKET</key>
-	<string>diccionario-panocho.appspot.com</string>
+	<string>diccionario-de-panocho.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:975579300298:ios:4807d36008eff99f348f33</string>
+	<string>1:543577180257:ios:82e96d3395b21dd5880220</string>
 </dict>
 </plist>

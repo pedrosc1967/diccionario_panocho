@@ -35,7 +35,7 @@ dependencies:
   firebase_core: ^0.5.3
   firebase_analytics: ^6.3.0
   package_info: ^0.4.3+2
-  sentry_flutter: ^4.0.1
+  sentry_flutter: ^4.0.3
   rate_my_app: ^0.7.2
   flappy_search_bar: ^1.7.2
   flutter_tts: ^2.1.0

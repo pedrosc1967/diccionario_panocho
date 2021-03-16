@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "975579300298",
-    "project_id": "diciconario-panocho",
-    "storage_bucket": "diccionario-panocho.appspot.com"
+    "project_number": "543577180257",
+    "project_id": "diccionario-de-panocho",
+    "storage_bucket": "diccionario-de-panocho.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:975579300298:android:e7bd6eeb15392195348f33",
+        "mobilesdk_app_id": "1:543577180257:android:9bb59cd655f8d65b880220",
         "android_client_info": {
           "package_name": "com.aplanetbit.diccionario.panocho"
         }
       },
       "oauth_client": [
         {
-          "client_id": "975579300298-bqflll5s60qh160irsp0qn60cjoajkmt.apps.googleusercontent.com",
+          "client_id": "543577180257-c7clekukrr20js8vdtmajlal9c8a6m8v.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA1TA4ple5xUsOTLxGOSaV3at9oyOh-zOY"
+          "current_key": "AIzaSyArPBIzIgbnI63ipluk4Ql9HsCl1G5S65A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "975579300298-bqflll5s60qh160irsp0qn60cjoajkmt.apps.googleusercontent.com",
+              "client_id": "543577180257-c7clekukrr20js8vdtmajlal9c8a6m8v.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "975579300298-otppfcgmqhph48afoqb7ivr94cjdu4gf.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.aplanetbit.diccionario.panocho"
-              }
             }
           ]
         }

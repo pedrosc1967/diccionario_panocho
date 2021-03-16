@@ -1,6 +1,7 @@
 import UIKit
 import Flutter
 import OneSignal
+import Firebase
 
 @UIApplicationMain
 @objc class AppDelegate: FlutterAppDelegate {
@@ -8,6 +9,7 @@ import OneSignal
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
+    FirebaseApp.configure()
     //Remove this method to stop OneSignal Debugging
     OneSignal.setLogLevel(.LL_VERBOSE, visualLevel: .LL_NONE)
 
@@ -16,7 +18,7 @@ import OneSignal
 
     // Replace 'YOUR_ONESIGNAL_APP_ID' with your OneSignal App ID.
     OneSignal.initWithLaunchOptions(launchOptions,
-      appId: "934893a3-d7e2-4130-a314-fe29eb59f5f4",
+      appId: "b17d34fb-2e52-4e4c-994b-4897421a590d",
       handleNotificationAction: nil,
       settings: onesignalInitSettings)
 

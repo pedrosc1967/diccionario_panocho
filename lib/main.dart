@@ -32,8 +32,7 @@ Future<void> main() async {
     Firebase.initializeApp(),
     SentryFlutter.init(
       (options) {
-        options.dsn =
-            'https://7470e4eeb50e49fdba47b5e48d4e09f6@o496488.ingest.sentry.io/5571285';
+        options.dsn = Constants.URLSentry; // URLSentri in constants.dart
       },
     )
   ];
@@ -120,7 +119,8 @@ class HomePageState extends State<HomePage> with WidgetsBindingObserver {
     //Remove this method to stop OneSignal Debugging
     OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
 
-    OneSignal.shared.init("934893a3-d7e2-4130-a314-fe29eb59f5f4", iOSSettings: {
+    //OneSignal initialization is done here
+    OneSignal.shared.init(Constants.OneSignalAppID, iOSSettings: {
       OSiOSSettings.autoPrompt: false,
       OSiOSSettings.inAppLaunchUrl: false
     });
