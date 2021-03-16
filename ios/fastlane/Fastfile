@@ -15,6 +15,10 @@ update_fastlane
 
 default_platform(:ios)
 
+enable_automatic_code_signing(
+  path: "/Users/aplanetbit/StudioProjects/diccionario_panocho/ios/Runner.xcodeproj"
+)
+
 platform :ios do
   desc "Build .ipa file for iOS deployment to App Store"
   lane :buildAdHoc do
