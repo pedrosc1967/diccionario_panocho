@@ -10,7 +10,8 @@ class Constants {
       'https://play.google.com/store/apps/dev?id=8134258655084518574';
   static const String URLOtherAppsIOS =
       'https://apps.apple.com/us/developer/fermina-soto-gonzlez/id1545741307';
-  static const String URLAplanetBit = 'https://aplanetbit.com';
+  static const String URLAplanetBitAndroid = 'https://aplanetbit.com';
+  static const String URLAplanetBitiOS = 'https://aplanetbit.com/?page_id=1359';
   //static const String URLRateUsAndroid =
   //    'https://play.google.com/store/apps/details?id=com.aplanetbit.diccionario.panocho';
   //static const String URLRateUSIOS =

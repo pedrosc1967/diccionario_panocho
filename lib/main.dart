@@ -353,13 +353,24 @@ class HomePageState extends State<HomePage> with WidgetsBindingObserver {
                 style: TextStyle(fontSize: 20),
               ),
               onTap: () {
-                try {
-                  launchURL(Constants.URLAplanetBit);
-                } catch (exception, stackTrace) {
-                  Sentry.captureException(
-                    exception,
-                    stackTrace: stackTrace,
-                  );
+                if (Platform.isAndroid) {
+                  try {
+                    launchURL(Constants.URLAplanetBitAndroid);
+                  } catch (exception, stackTrace) {
+                    Sentry.captureException(
+                      exception,
+                      stackTrace: stackTrace,
+                    );
+                  }
+                } else {
+                  try {
+                    launchURL(Constants.URLAplanetBitiOS);
+                  } catch (exception, stackTrace) {
+                    Sentry.captureException(
+                      exception,
+                      stackTrace: stackTrace,
+                    );
+                  }
                 }
               },
               trailing: Icon(Icons.cloud),
