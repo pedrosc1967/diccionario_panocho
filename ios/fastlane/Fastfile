@@ -23,6 +23,6 @@ update_code_signing_settings(
 platform :ios do
   desc "Build .ipa file for iOS deployment to App Store"
   lane :buildAdHoc do
-        gym sigh({ -a com.aplanetbit.diccionario.panocho -u aplanetbit@gmail.com }) #  Build with gym - Add actions here: https://docs.fastlane.tools/actions
+        gym #  Build with gym - Add actions here: https://docs.fastlane.tools/actions
   end
 end
