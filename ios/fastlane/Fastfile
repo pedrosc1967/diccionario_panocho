@@ -23,7 +23,16 @@ update_code_signing_settings(
 platform :ios do
   desc "Build .ipa file for iOS deployment to App Store"
   lane :buildAdHoc do
-        sigh(force: true)
-        gym  #  Build with gym - Add actions here: https://docs.fastlane.tools/actions
+        build_app(workspace: "Runner.xcworkspace",
+        	scheme: "Runner (Production)",
+        	export_method: "app-store",
+            	export_options: {
+             		provisioningProfiles: {
+                		"com.aplanetbit.diccionario.panocho" => "com.aplanetbit.diccionario.panocho AppStore 1558649108",
+                		"com.aplanetbit.diccionario.panocho.OneSignalNotificationServiceExtension" => "com.aplanetbit.diccionario.panocho.onesignal"
+              		}
+            	})
+        # sigh(force: true)
+        # gym  #  Build with gym - Add actions here: https://docs.fastlane.tools/actions
   end
 end
