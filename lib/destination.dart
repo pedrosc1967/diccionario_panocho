@@ -68,14 +68,19 @@ class DestinationState extends State<Destination> {
               color: Colors.transparent,
               width: MediaQuery.of(context).size.width,
               height: 60,
-              child: RaisedButton(
-                shape: new RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(30.0),
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.blue[900],
+                  onPrimary: Colors.white,
+                  shadowColor: Colors.greenAccent,
+                  elevation: 3,
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(32.0)),
+                  minimumSize: Size(double.infinity, 40), // full width
                 ),
                 onPressed: () {
                   speak(widget.entry + '\n ' + widget.definition);
                 },
-                color: Colors.green[900],
                 child: Text(
                   'say_button'.tr(),
                   style: TextStyle(
@@ -91,14 +96,19 @@ class DestinationState extends State<Destination> {
               color: Colors.transparent,
               width: MediaQuery.of(context).size.width,
               height: 60,
-              child: RaisedButton(
-                shape: new RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(30.0),
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.blue[900],
+                  onPrimary: Colors.white,
+                  shadowColor: Colors.greenAccent,
+                  elevation: 3,
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(32.0)),
+                  minimumSize: Size(double.infinity, 40), // full width
                 ),
                 onPressed: () {
                   stop();
                 },
-                color: Colors.red[900],
                 child: Text(
                   'stop_button'.tr(),
                   style: TextStyle(
@@ -114,14 +124,19 @@ class DestinationState extends State<Destination> {
               color: Colors.transparent,
               width: MediaQuery.of(context).size.width,
               height: 60,
-              child: RaisedButton(
-                shape: new RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(30.0),
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.blue[900],
+                  onPrimary: Colors.white,
+                  shadowColor: Colors.greenAccent,
+                  elevation: 3,
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(32.0)),
+                  minimumSize: Size(double.infinity, 40), // full width
                 ),
                 onPressed: () {
                   Navigator.pop(context);
                 },
-                color: Colors.blue[900],
                 child: Text(
                   'back_button'.tr(),
                   style: TextStyle(

@@ -42,9 +42,15 @@ class ListEntriesState extends State<ListEntries> {
                     color: Colors.transparent,
                     width: MediaQuery.of(context).size.width,
                     height: 60,
-                    child: RaisedButton(
-                      shape: new RoundedRectangleBorder(
-                        borderRadius: new BorderRadius.circular(30.0),
+                    child: ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                        primary: Colors.blue[900],
+                        onPrimary: Colors.white,
+                        shadowColor: Colors.greenAccent,
+                        elevation: 3,
+                        shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(32.0)),
+                        minimumSize: Size(double.infinity, 40), // full width
                       ),
                       onPressed: () {
                         if ((isFirstUse) || (numUses % cycle == 0)) {
@@ -66,7 +72,6 @@ class ListEntriesState extends State<ListEntries> {
                           );
                         }
                       },
-                      color: Colors.blue[900],
                       child: Text(
                         entrada['Entry'],
                         style: TextStyle(
